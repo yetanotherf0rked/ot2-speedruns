@@ -17,18 +17,19 @@ aelfric vs vide:
 - Armorer: buy charmed rod for ch.1 boss
 #### pilgrim's way (3 encounters running, maybe should walk smwhere):
 - 1 enc then
-	Chest: stimulating ring (east cave, sells for 600)
-	then 1 enc then
-	?? tough nut?? then 1 enc again (running, maybe should skip this one)
-	cathedral entrance:
-	coerce Vados (west)
-	soulstones
-		1 shad S house behind Vados
-		1 light S cathedral cellars (1st chest right stairs)
-		1 light S cathedral (east chamber)
+- Chest: stimulating ring (east cave, sells for 600)
+- then 1 enc then
+- ?? tough nut?? then 1 enc again (running, maybe should skip this one)
+### cathedral entrance:
+- coerce Vados (west)
+- soulstones
+  - 1 shad S house behind Vados
+  - 1 light S cathedral cellars (1st chest right stairs)
+  - 1 light S cathedral (east chamber)
 	
-	ch.1 boss Felvarg	3600 hp - 5 shield - sword, light, ice
-		
+### Boss: Felvarg
+3600 hp - 5 shield - sword, light, ice
+```
 		Temenos		Crick
 	T1	Holy Light	Sacred Slash
 	T2	Holy Light	Sacred Slash
@@ -40,7 +41,7 @@ aelfric vs vide:
 	T8	Staff		Defend
 	T9	Light S		Sword x4
 	T10	Holy Light x4	Light S
-
+```
 	thanks dalia for his notes
 	https://docs.google.com/document/d/1AHPn6DGvT8kFl9ibK4ifYqQxQWtcw6OlWid1Ul9oiKc/edit?usp=sharing
 
