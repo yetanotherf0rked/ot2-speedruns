@@ -1,31 +1,22 @@
 # Temenos Solo Run Notes
 
 -------------------------------------------------------
-- Still in draft state
-Revisions:
-	1 	10.04.23	4:00
-	2	10.04.23	7:33
-    3   10.04.23    9:18
-    4   11.04.23    13:44
+Still in draft state. Revisions:
+1. 	10.04.23	4:00
+2.	10.04.23	7:33
+3.   10.04.23    9:18
+4.   11.04.23    13:44
 -------------------------------------------------------
 ## TODO
-to add:
-flamechurch
-	- coerce flamechurch cleric to guide Midwife Cape Cold (15->5)
-canalbrine
-	- u can do the rich father quest if you can coerce the lvl.10 Cleric (15->5)
-	edit: she just one shots you, maybe doable with a summon though
-	she's weak to spear, fire and light. Fisherman?
-	but still u need Fire Ms to get him :(
 
 ## Current Route
-=== felvarg
-	speed up & skip cutscenes
-	aelfric vs vide:
-	game speed x2, scripted battle
-	Armorer: buy charmed rod for ch.1 boss
-	== pilgrim's way (3 encounters running, maybe should walk smwhere):
-	1 enc then
+### felvarg
+speed up & skip cutscenes
+aelfric vs vide:
+- game speed x2, scripted battle
+- Armorer: buy charmed rod for ch.1 boss
+#### pilgrim's way (3 encounters running, maybe should walk smwhere):
+- 1 enc then
 	Chest: stimulating ring (east cave, sells for 600)
 	then 1 enc then
 	?? tough nut?? then 1 enc again (running, maybe should skip this one)
