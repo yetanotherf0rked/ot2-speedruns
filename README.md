@@ -10,26 +10,26 @@ Still in draft state. Revisions:
 ## TODO
 
 ## Current Route
-### felvarg
+```
+=== felvarg
 speed up & skip cutscenes
 aelfric vs vide:
 - game speed x2, scripted battle
 - Armorer: buy charmed rod for ch.1 boss
-#### pilgrim's way (3 encounters running, maybe should walk smwhere):
+== pilgrim's way (3 encounters running, maybe should walk smwhere):
 - 1 enc then
 - Chest: stimulating ring (east cave, sells for 600)
 - then 1 enc then
 - ?? tough nut?? then 1 enc again (running, maybe should skip this one)
-### cathedral entrance:
+ cathedral entrance:
 - coerce Vados (west)
 - soulstones
   - 1 shad S house behind Vados
   - 1 light S cathedral cellars (1st chest right stairs)
   - 1 light S cathedral (east chamber)
 	
-### Boss: Felvarg
+== Boss: Felvarg
 3600 hp - 5 shield - sword, light, ice
-```
 		Temenos		Crick
 	T1	Holy Light	Sacred Slash
 	T2	Holy Light	Sacred Slash
@@ -41,7 +41,7 @@ aelfric vs vide:
 	T8	Staff		Defend
 	T9	Light S		Sword x4
 	T10	Holy Light x4	Light S
-```
+
 	thanks dalia for his notes
 	https://docs.google.com/document/d/1AHPn6DGvT8kFl9ibK4ifYqQxQWtcw6OlWid1Ul9oiKc/edit?usp=sharing
 
@@ -336,11 +336,11 @@ maybe should go montwise before crackridge/gravell
 	expensive for now, maybe better way
 
 	more details below
+```
 
--------------------------------------------------------
+## 1st run notes
 
-1st run notes
-
+```
 Flamechurch
 - 2 light S, 1 shad S for ch.1 boss
 - Townsperson: Hidden Item: Pom (M)
@@ -794,3 +794,4 @@ Leaflands	Eastern Wellgrove Trail	Refreshing Jam
 Leaflands	Secret Forest	Refreshing Jam
 Leaflands	Southern Timberain Trail	Refreshing Jam
 Leaflands	Southern Timberain Trail	Pom (M)
+```
