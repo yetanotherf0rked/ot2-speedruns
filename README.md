@@ -1,28 +1,32 @@
 # Temenos Solo Run Notes
+
 -------------------------------------------------------
-Still in draft state
+- Still in draft state
 Revisions:
 	1 	10.04.23	4:00
 	2	10.04.23	7:33
-	3 	10.04.23	9:18
+    3   10.04.23    9:18
+    4   11.04.23    13:44
 -------------------------------------------------------
-
-route v 0.04a
-
+## TODO
 to add:
 flamechurch
 	- coerce flamechurch cleric to guide Midwife Cape Cold (15->5)
 canalbrine
 	- u can do the rich father quest if you can coerce the lvl.10 Cleric (15->5)
+	edit: she just one shots you, maybe doable with a summon though
+	she's weak to spear, fire and light. Fisherman?
+	but still u need Fire Ms to get him :(
 
+## Current Route
 === felvarg
 	speed up & skip cutscenes
 	aelfric vs vide:
 	game speed x2, scripted battle
-	buy charmed rod/wooden staff for ch.1 boss (not tested yet)
-	pilgrim's way:
+	Armorer: buy charmed rod for ch.1 boss
+	== pilgrim's way (3 encounters running, maybe should walk smwhere):
 	1 enc then
-	stimulating ring (east cave, sells for 600)
+	Chest: stimulating ring (east cave, sells for 600)
 	then 1 enc then
 	?? tough nut?? then 1 enc again (running, maybe should skip this one)
 	cathedral entrance:
@@ -35,23 +39,32 @@ canalbrine
 	ch.1 boss Felvarg	3600 hp - 5 shield - sword, light, ice
 		
 		Temenos		Crick
-	T1	Heal Wounds	Cover x4
-	T2	Staff		Defend
-	T3	Holy Light x4	Sacred Slash x2
-	T4	Holy Light x3	Shadow S
-	T5	Holy Light	Sword
-	T6	Staff		Defend
-	T7	Light S		Sword x4
-	T8	Holy Light x4	Light S
+	T1	Holy Light	Sacred Slash
+	T2	Holy Light	Sacred Slash
+	T3	Heal Wounds	Cover x4
+	T4	Staff		Defend
+	T5	Holy Light x4	Sacred Slash x2
+	T6	Holy Light x3	Shadow S
+	T7	Holy Light	Sword
+	T8	Staff		Defend
+	T9	Light S		Sword x4
+	T10	Holy Light x4	Light S
 
 	thanks dalia for his notes
 	https://docs.google.com/document/d/1AHPn6DGvT8kFl9ibK4ifYqQxQWtcw6OlWid1Ul9oiKc/edit?usp=sharing
 
 === bye bye flamechurch
-	take Townsperson: Hidden Item: Pom (M)
+	go back flamechurch
+	?? Coerce: Townsperson top left house: Hidden Item: Pom (M)??
+	Quest: Midwife (3k, Nourishing S, Capecold)
+		this one takes quite some time, not sure if it's a good idea to keep ip
+		go back Flamechurch Cathedral
+		Coerce: Head Cleric, cathedral's right room (Guide with Ease)
+		tp flamechurch
+		Guide: Midwife in inn (lvl15 Guide, 5 with Guide with Ease)
+		the quest takes place in Capecold		
 	go for the south clockbank chest
-	go New Delsta (boat faster I think)
-		buy Unerring
+	tag New Delsta
 
 maybe should go canalbrine before soulstones, coerce lvl 10 Cleric for Guide with Ease to lower disappointed dad's Guide level by 10 and then do the 9k rich father quest in New Delsta
 
@@ -153,7 +166,6 @@ maybe should go montwise before crackridge/gravell
 		merch (HHG x4 at night) for 4th
 	in timberain:
 	coerce remorseful man in front of tavern
-	take Castti in Tavern
 	coerce soldier: More plentiful provision
 		use LP + elemental barrage
 	buy:
@@ -173,25 +185,9 @@ maybe should go montwise before crackridge/gravell
 	margello & tiffany quest
 	take chest if you want (I skip it)
 	coerce soldier for Great Blade (inventor item)
-	tp montwise and head to stormhail with castti
-
-=== thank you castti
-	from montwise to stormhail guard
-	if encounter with castti, flee
-	soothe montwise guard with the Herb you didn't sell at the start of the run
-	tp back montwise
-	put castti in tavern
-
-=== vatican
-	inventor setup
-	head back to Stormhail
-	15000L chest
-	Ice Soulstone L chest (if you want)
-	buy guardian's Axe (Shop: Stormhail) - 23000L (inventor skill item)
-	tp canalbrine
 
 === the architect
-	resume ch.2
+	tp canalbrine
 	take nut chest
 	investigate lucian's house
 	money chest top of ship
@@ -200,12 +196,30 @@ maybe should go montwise before crackridge/gravell
 
 === he protecc
 	still in canalbrine
+	take castti
 	guide rich father in church (lvl 15)
 	tp new delsta
 	rich father quest (9k)
 	in new delsta backstreets
 	coerce killer's motive
-	(maybe do game parlor quest here instead???)
+	game parlor quest
+	tp montwise
+
+=== thank you castti
+	from montwise to stormhail guard
+	if encounter with castti, flee
+	soothe montwise guard with the Herb you didn't sell at the start of the run
+	tp cropdale
+	put castti in tavern
+	tp back montwise and head to stormhail
+
+=== vatican (need victory ring here, or do stormhail later)
+	inventor setup + victory ring + fight at night
+	15000L chest
+	Ice Soulstone L chest (if you want)
+	Raging Beast Chest (sells for ??)
+	buy guardian's Axe (Shop: Stormhail) - 23000L (inventor skill item)
+	tp new delsta
 	go inventor
 	unlock upgraded accessories
 
