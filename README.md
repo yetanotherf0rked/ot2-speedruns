@@ -12,31 +12,31 @@ Still in draft state. Revisions:
 ## Current Route
 ```
 === felvarg
-speed up & skip cutscenes
-aelfric vs vide:
-- game speed x2, scripted battle
-- Armorer: buy charmed rod for ch.1 boss
-== pilgrim's way (3 encounters running, maybe should walk smwhere):
-- 1 enc then
-- Chest: stimulating ring (east cave, sells for 600)
-- then 1 enc then
-- ?? tough nut?? then 1 enc again (running, maybe should skip this one)
- cathedral entrance:
-- coerce Vados (west)
-- soulstones
-  - 1 shad S house behind Vados
-  - 1 light S cathedral cellars (1st chest right stairs)
-  - 1 light S cathedral (east chamber)
-	
-== Boss: Felvarg
-3600 hp - 5 shield - sword, light, ice
+    speed up & skip cutscenes
+    aelfric vs vide:
+    game speed x2, scripted battle
+    == pilgrim's way:
+    walk
+    == cathedral entrance:
+    Coerce: Vados (west)
+        Holy Light (HL) x2
+    Chest: 1 shad S, house behind Vados
+    buy & equip Charm Rod (800L)
+    == cathedral cellars (1 enc)
+    Chest: 1 light S (1st chest right stairs)
+    == cathedral
+    1 light S cathedral (east chamber)
+    == Boss: Felvarg
+    3600 hp - 5 shield - sword, light, ice
 		Temenos		Crick
+    Phase 1
 	T1	Holy Light	Sacred Slash
 	T2	Holy Light	Sacred Slash
 	T3	Heal Wounds	Cover x4
 	T4	Staff		Defend
-	T5	Holy Light x4	Sacred Slash x2
-	T6	Holy Light x3	Shadow S
+	T5	Holy Light x4	Sacred Slash x2    (Breaks)
+	T6	Holy Light x3	Shadow S           (Broken)
+    Phase 2
 	T7	Holy Light	Sword
 	T8	Staff		Defend
 	T9	Light S		Sword x4
@@ -45,42 +45,58 @@ aelfric vs vide:
 	thanks dalia for his notes
 	https://docs.google.com/document/d/1AHPn6DGvT8kFl9ibK4ifYqQxQWtcw6OlWid1Ul9oiKc/edit?usp=sharing
 
-=== bye bye flamechurch
-	go back flamechurch
-	?? Coerce: Townsperson top left house: Hidden Item: Pom (M)??
-	Quest: Midwife (3k, Nourishing S, Capecold)
-		this one takes quite some time, not sure if it's a good idea to keep ip
-		go back Flamechurch Cathedral
-		Coerce: Head Cleric, cathedral's right room (Guide with Ease)
-		tp flamechurch
-		Guide: Midwife in inn (lvl15 Guide, 5 with Guide with Ease)
-		the quest takes place in Capecold		
-	go for the south clockbank chest
+=== pretty pearl
+    you should have something like 2200L
+	go for the south clockbank 6300L chest
 	tag New Delsta
-
-maybe should go canalbrine before soulstones, coerce lvl 10 Cleric for Guide with Ease to lower disappointed dad's Guide level by 10 and then do the 9k rich father quest in New Delsta
+    tag ND Harbor
+    tag Abandoned Village
+    tp ND Harbor
+    ferry to Beasting Bay (1500L)
+    == Road to Tropuhopu
+    walk until Western Tropu'hopu Traverse savepoint
+    save & reload
+    walk to Chest: Light M
+    1 encounter: use Light M
+    walk to Tropu'hopu
+    == Tropu'hopu
+    switch to night
+    Coerce: Elderly Man looking at the sea (Hidden Item: Pretty Pearl)
+    take Pretty Pearl
+    go talk to the Pretty Pearl guy in Floating Theather (15k quest)
+    tp Abandoned Village
 
 === shady soulstones
-	tag ND Harbor
-	tag Abandoned
-	take Herb of Serenity
-	sell everything u can except Herb (used for soothing stormhail guard with castti)
-	buy 3 shad M, 2 light M, 2 Fire M, 1 Ice M
-	edit: not enough money (only 9k, solution?)
-	head abandoned waterways chest
+    head black market
+    you should have 20000L now
+    Chest: Herb of Serenity (don't sell it, we need it for soothing Stormhail guard)
+    switch day/night until clerics appear
+    you can sell Cupid's Bow (4k) if you want
+	buy
+        1 Fire S, 1 Ice S, 1 Thunder S (Inventor objects) 
+        2 Fire M (Conning Creek)
+        6 Light M (Crackridge area)
+        3 Shad M (Evasive & Winterbloom)
+        extra Ms for cait & octopuff encounters if u want
 
-=== sneaky maneuvers
-	go evasive, use 2 shad M
-	unlock Lightning Bolt & Elemental Barrage
-	take Ice M
-	Winterbloom
-	Townsperson Hidden Item: Rev Jam (not tested)
+=== evasive maneuvers 
+	go evasive, encounters: use shad M
+	unlock Lightning Bolt & Elemental Barrage (very important for High Shield Coerces)
+	Chest: Ice M (for Abandoned Waterways encounter)
+	in Winterbloom
+	Townsperson Hidden Item: Rev Jam (still not sure if going to Winterbloom is necessary but we do need rev jams for final boss)
+
+=== abandoned chest
+    tp abandoned village
+    go abandoned waterways
+    encounter: use Ice M
+    take 8300L chest
 
 === these hands
 	go canalbrine
 	don't start ch.2
 	take castti
-	waiting day & night quest
+	waiting day & night quest (3k)
 	go tavern, remove castti
 	now start ch.2 (less distance)
 	talk to witnesses
