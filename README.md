@@ -28,6 +28,7 @@ Still in draft state. Revisions:
     1 light S cathedral (east chamber)
     == Boss: Felvarg
     3600 hp - 5 shield - sword, light, ice
+
 		Temenos		Crick
     Phase 1
 	T1	Holy Light	Sacred Slash
@@ -55,6 +56,7 @@ Still in draft state. Revisions:
     ferry to Beasting Bay (1500L)
     == Road to Tropuhopu
     walk until Western Tropu'hopu Traverse savepoint
+    encounters: don't use your LP, we need it in Tropu'hopu
     save & reload
     walk to Chest: Light M
     1 encounter: use Light M
@@ -62,11 +64,14 @@ Still in draft state. Revisions:
     == Tropu'hopu
     switch to night
     Coerce: Elderly Man looking at the sea (Hidden Item: Pretty Pearl)
-    take Pretty Pearl
-    go talk to the Pretty Pearl guy in Floating Theather (15k quest)
-    tp Abandoned Village
+        2 Shield - 2 Strength - Weak to Sword, Axe, Fire
+        LP + Staff x2
 
-=== shady soulstones
+    take Pretty Pearl
+    go talk to the Pretty Pearl guy in Floating Theater (15k quest)
+
+=== get soulstones
+    tp Abandon Village
     head black market
     you should have 20000L now
     Chest: Herb of Serenity (don't sell it, we need it for soothing Stormhail guard)
@@ -79,36 +84,72 @@ Still in draft state. Revisions:
         3 Shad M (Evasive & Winterbloom)
         extra Ms for cait & octopuff encounters if u want
 
-=== evasive maneuvers 
-	go evasive, encounters: use shad M
+=== winterbloom
+    == to Evasive Maneuvers
+    I run both low level areas (1 enc each, flee)
+    in mid level area, use Shad M
+    1 enc then Altar then 1 enc to Evasive
 	unlock Lightning Bolt & Elemental Barrage (very important for High Shield Coerces)
-	Chest: Ice M (for Abandoned Waterways encounter)
-	in Winterbloom
-	Townsperson Hidden Item: Rev Jam (still not sure if going to Winterbloom is necessary but we do need rev jams for final boss)
+    keep Scholar equipped
+    equip Evasive Maneuvers
+    head Altar again
+	Chest: Ice M 
+    1 enc to Winterbloom
+	== in Winterbloom:
+    switch to night
+    make sure LP full (or go to the inn)
+    head to the house between the Tavern & the Inn
+	Coerce: Townsperson (Blond hair woman at the right) for Hidden Item: Rev Jam
+        8 Shield - weak to Ice
+        use LP + Elemental Barrage x4
+    go take the Rev Jam at the inn
+    you can also recharge your LP just in case
+    Chest: Ice M (behind Phonograph House, right side)
+
+    Note: still not sure if going to Winterbloom is necessary but we do need rev jams for final boss
 
 === abandoned chest
     tp abandoned village
     go abandoned waterways
+    Chest: Wriggling Root (useful for Final Boss)
     encounter: use Ice M
-    take 8300L chest
-
-=== these hands
-	go canalbrine
-	don't start ch.2
-	take castti
-	waiting day & night quest (3k)
-	go tavern, remove castti
-	now start ch.2 (less distance)
-	talk to witnesses
-	skip cutscenes, we'll resume ch.2 later
-	buy critical
-	head to conning creek, use 2 fire M
+    Chest: 8000L
 
 === 300 iq guy
-	apothikari
+    tp Beasting Bay
+	ferry to Canalbrine (1k)
+    == in Canalbrine:
+	start ch.2
+    talk to witnesses
+    head to lucian's house (south bridge)
+    Chest: Resistant Nut
+    investigate Lucian's House
+	now take castti
+	Quest: Waiting day & night (3k)
+	go tavern
+    remove castti
+    go upper floor
+    Coerce: Vados (front guy)
+        7 shield
+    ### Still not sure about this
+    now start ch.2 (less distance)
+	talk to witnesses
+	skip cutscenes, we'll resume ch.2 later
+    ### End of Still not sure about this
+
+	buy critical
+	head to conning creek, use 2 fire M
+	unlock apothecary
 	rainbow glass
-	tp new delsta & inventor
+	tp new delsta
+    unlock inventor
 	unlock 2 skills
+
+=== thieves town
+	catharine quest
+	Boy: Hidden Item: Shadow Soulstone (L)
+	Buy: Soldier's Bow (Shop: Clockbank) - 11000 Leaves
+	Quest: Nyx Family Tree
 	head to crackridge harbor
 
 maybe should go montwise before crackridge/gravell
@@ -153,11 +194,6 @@ maybe should go montwise before crackridge/gravell
 	Margello's Aide: Margello's Personality
 	Historian: Nyx Family History
 
-=== thieves town
-	catharine quest
-	Boy: Hidden Item: Shadow Soulstone (L)
-	Buy: Soldier's Bow (Shop: Clockbank) - 11000 Leaves
-	Quest: Nyx Family Tree
 
 === art town
 	Illusionist: Red Apple (night, town entry)
