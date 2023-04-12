@@ -340,28 +340,42 @@ nameless village
 
 === sad bruh moment		- lvl 21 by here
 	tp stormhail
-	Forbidden Shrine
-	Gleaming Amulet
-	15kL
+    continue story
+
+	== Forbidden Shrine:
+    Inventor + Giant Club + LT Axe + Victory Ring setup
+    2 encounters
+    Fight at night
+	Chest: 15k
 	upgrade gear before boss fight
-		nuts
-		Hale and Hearty
-		either 2x empowering
-		or empowering & protective
-		better focus on hp more than defense
-	Deputy Cubaryi 53500 HP / collect 16k / cost 37k
+		Nuts
+		Hale and Hearty (+500HP)
+		2x Empowering (+1500HP)
+        upgraded accessories (+750HP)
+    You can go for the Gleaming amulet if you want
+
+	== Deputy Cubaryi 53500 HP / collect 16k / cost 37k
 		weak to staff & polearm 1st phase
-		painful physical attacks
+		painful physical attacks, light attacks, and m.def debuffs
 		summon fisherman to brk shield
-		HHB x4 then collect when broken (50% chance)
-		heal/summon again
-		HHB x4
-		HHG x4
+        strat not consistent yet below, cost: 37k
+
+        Phase 1 (5 Shield)
+        T1 Summon
+        T2 Mystical Staff (breaks)    
+        T3 Collect x4 (Broken)
+        Phase 2
+        T4 Summon
+        T5 Pom L/Rev Jam (if low HP)
+        T6 HHR x3
+        T7 HHB x4
+        T8 Pom M/L
+        T9 HHB x3
 
 NOTE:
 	from here you'll need 175k
 	45 for the assassins
-	and 130 for final boss
+	and 110 to  for final boss
 	at this point of my 2nd run I'm at 100k
 	and there's a 28k L chests in ch.5
 	so need 37k more
@@ -387,14 +401,14 @@ NOTE:
 === no gps signal zone
 	nameless village
 	start ch4
-	Wandering Wood
-	right then left, skip cutscene then right
-	skip cutscene and tp nameless village
+	== Wandering Wood:
+    right then left x2
+	tp nameless village
 	take the beastling and back to wood
-	equip victory ring, inventor setup, night
-	28k chest
-	Rifted Rock, chests:
-		Revitalizing Jam (you may need this)
+    Chest: 28k
+    Chest: Light Soulstone (L)
+	== Rifted Rocks:
+	Chest: Revitalizing Jam (you may need this)
 
 === getting prepared
 	prepare for kaldena, gear I used at lvl 30:
@@ -406,34 +420,45 @@ NOTE:
 	Boost Start
 	Upgraded Accessories
 
-	Polearm		None
-	Bow			Evening Mist
-	Staff		Giant's Club
-	Shield		Quartz (balanced)
+	Polearm		Whatever Bow			Whatever
+	Staff		Whatever (maybe Hallowed Rod can be userful?)
+    Armor       .
+    Head        .
+	Shield		Quartz Shield
 	Accessory 1	Empowering Necklace
 	Accessory 2	Empowering Bracelet
 	
-	I didn't test at mid-20 yet
+	make sure it's night and that you have healing items (jams, Poms, Red Apples)
+
+    In Best Case Scenario, you'll use:
+    First phase: HHB three times, HHV once
+    Second phase: HHA once
+    
+    If not you would probably use either HHA twice or HHA+HHV second phase.
 
 === doubt is what I do
-	make sure it's night and that you have healing items (jams, Poms, Red Apples)
-	Phase 1:
-		Summon Fisherman
-		break & deal less than 35k damage
+
+    Kaldena (100000HP)
+
+	Phase 1: (Cost 75k)
+		1. Summon Fisherman
+		2. break & deal less than 35k damage
 			HHB x4 broken debuffed does 31/32k
 			HHV x3 broken debbufed does 30k
 			HHV x3 broken non-debuffed does 27k (so better go with HHBx2 to brk+deal dmg, and then HHBx4 to reach 32k)
-		heal somewhere here
-		Summon Fisherman again
-		break & deal as much dmg as u can
-			I never had her debuffed on this stage as I was always either lacking HP or BP or sth else
-			Ideal would be that she's debuffed, you're nearly full HP, she has 1 SP left, break with HHB x3 and tank with HHV x4, should do around 50/60k dmg
-			of course u can use assassins if you have extra money
-	Phase 2:
-		should be 35k to 20k hp left
+		3. Summon Fisherman again
+        4. heal somewhere here
+		5. break & deal as much dmg as u can
+			
+        Note: I never had her debuffed on this stage as I was always either lacking HP or BP or sth else
+		Ideal would be that she's debuffed, you're nearly full HP, she has 1 SP left, break with HHB x3 and tank with HHV x4, should do around 50/60k dmg
+
+	Phase 2: should be 35k to 20k hp left (Cost: 50/80/100k)
 		don't break, don't debuff (useless)
-		boost + use assassins twice (16k damage)
-		HEAL
+		1. Boost/Heal (Rev Jam/Pom L/Red Apple)
+        2. If Terror, use Wriggling Root
+        3. HHA x4
+        4. if still alive, boost/heal and either HHV x4 or HHAx4 (if you have 50k)
 
 	expensive for now, maybe better way
 
