@@ -7,7 +7,38 @@ Still in draft state. Revisions:
 3.   10.04.23    9:18
 4.   11.04.23    13:44
 -------------------------------------------------------
-## TODO
+## Thoughts
+Tested this:
+```
+felvarg ~2200L (need LP next)
+pretty pearl ~15k (2200 + 15000 - 1500 + enc)
+soulstones ~25k (sell mirage bow & herb)
+evasive (need LP next)
+winterbloom (go to inn here)
+abandoned chest
+montwise (need LP here)
+crackridge
+merch/gravell
+timberain I
+merry hills (empowering, herb)
+canalbrine I, take castti (ch.2 until lucian house)
+soothe guard
+canabrine II, deposit castti, take rich father and go for vados
+New Delsta I (rich father, unerring, killer's motive, victory)
+conning creek (grape guy, apothecary, rainbow)
+timberain II (proof of justice)
+stormhail
+clockbank
+inventor
+ch.3
+ravine
+full gear
+assassins
+ch.4
+nameless village
+```
+- and going Inventor last is a bad idea, loses a lot of time & money.
+- do we really need Upgraded Accessories? It costs 35k to get. But makes you gain 750HP for two last bosses.
 
 ## Current Route
 ```
@@ -22,6 +53,8 @@ Still in draft state. Revisions:
         Holy Light (HL) x2
     Chest: 1 shad S, house behind Vados
     buy & equip Charm Rod (800L)
+    also buy Healing Grapes (5)
+    keep 1 Healing Grape for recruiting Castti
     == cathedral cellars (1 enc)
     Chest: 1 light S (1st chest right stairs)
     == cathedral
@@ -46,7 +79,7 @@ Still in draft state. Revisions:
 	thanks dalia for his notes
 	https://docs.google.com/document/d/1AHPn6DGvT8kFl9ibK4ifYqQxQWtcw6OlWid1Ul9oiKc/edit?usp=sharing
 
-=== pretty pearl
+=== pretty pearl (need full LP)
     you should have something like 2200L
 	go for the south clockbank 6300L chest
 	tag New Delsta
@@ -71,20 +104,19 @@ Still in draft state. Revisions:
     go talk to the Pretty Pearl guy in Floating Theater (15k quest)
 
 === get soulstones
-    tp Abandon Village
+    tp Abandoned Village
     head black market
     you should have 20000L now
-    Chest: Herb of Serenity (don't sell it, we need it for soothing Stormhail guard)
+    Chest: Herb of Serenity 
     switch day/night until clerics appear
     you can sell Cupid's Bow (4k) if you want
 	buy
         1 Fire S, 1 Ice S, 1 Thunder S (Inventor objects) 
-        2 Fire M (Conning Creek)
-        6 Light M (Crackridge area)
-        3 Shad M (Evasive & Winterbloom)
-        extra Ms for cait & octopuff encounters if u want
+        2 Fire M (Montwise)
+        7 Light M (6 Crackridge area & 1 Clockbank)
+        3 Shad M (2 Evasive, 1 Winterbloom, 1 Timberain)
 
-=== winterbloom
+=== winterbloom (need full LP)
     == to Evasive Maneuvers
     I run both low level areas (1 enc each, flee)
     in mid level area, use Shad M
@@ -101,109 +133,121 @@ Still in draft state. Revisions:
     head to the house between the Tavern & the Inn
 	Coerce: Townsperson (Blond hair woman at the right) for Hidden Item: Rev Jam
         8 Shield - weak to Ice
-        use LP + Elemental Barrage x4
+        T1 Elemental x1
+        T2 if 6SP LP+Elemental x3 else Elemental x1
+        T3 LP+Elemental x4
     go take the Rev Jam at the inn
-    you can also recharge your LP just in case
+    go inn to recharge LP
     Chest: Ice M (behind Phonograph House, right side)
+    switch to day
 
     Note: still not sure if going to Winterbloom is necessary but we do need rev jams for final boss
 
-=== abandoned chest
+=== abandoned chest & unerring
     tp abandoned village
     go abandoned waterways
     Chest: Wriggling Root (useful for Final Boss)
     encounter: use Ice M
     Chest: 8000L
+    tp ND
+    buy Unerring
+
+=== canalbrine
+    tp Beasting Bay
+    ferry to Canalbrine (1k)
+    start ch.2
+    help Castti (Healing Grape), don't take her yet
+    Buy: Critical
+    talk to witnesses
+
+=== grape guy (need LP)
+    tp ND Harbor
+    ferry to Crackridge Harbor
+	go cropdale
+    take 1600 chest if you want
+	in Cropdale:
+    Coerce: Grape Expert in tavern
+        weak to Ice - 4 shield - 5 strength
+        LP + Elemental x2
 
 === 300 iq guy
-    tp Beasting Bay
-	ferry to Canalbrine (1k)
-    == in Canalbrine:
-	start ch.2
-    talk to witnesses
-    head to lucian's house (south bridge)
-    Chest: Resistant Nut
-    investigate Lucian's House
-	now take castti
-	Quest: Waiting day & night (3k)
-	go tavern
-    remove castti
-    go upper floor
-    Coerce: Vados (front guy)
-        7 shield
-    ### Still not sure about this
-    now start ch.2 (less distance)
-	talk to witnesses
-	skip cutscenes, we'll resume ch.2 later
-    ### End of Still not sure about this
-
-	buy critical
-	head to conning creek, use 2 fire M
-	unlock apothecary
+    tp canalbrine
+	head to conning creek, use 2 Light M
+    encounters at night
 	rainbow glass
-	tp new delsta
+	tp ND
     unlock inventor
 	unlock 2 skills
 
-=== thieves town
-	catharine quest
-	Boy: Hidden Item: Shadow Soulstone (L)
-	Buy: Soldier's Bow (Shop: Clockbank) - 11000 Leaves
-	Quest: Nyx Family Tree
-	head to crackridge harbor
-
-maybe should go montwise before crackridge/gravell
-
 === bloated job
-	tag crackridge
-	LP + elemental barrage max bp
+    tp ND Harbor
+    ferry to Crackridge Harbor (2500L)
+    enc: 1 Light M + any M (I use Light Ms)
+    in Crackridge:
+	Coerce: Mason (Tavern, Night): Hidden Item: Fortifying M
 	head merch
 	8k chest
 	thunder M chest
-	merch
-	unlock Hired Help, Collect and Sidestep
 	equip merch
+	unlock Hired Help, Collect and Sidestep
 	equip Grows on Trees & Boost Start
-	if not enough JP, unlock Hired Help asap
 
-=== game over zone
+=== game over zone (need optimization/cut)
+    == to Gravell:
 	head gravell
 	1 enc, HHG x4 at night usually work
 	20+k money chest
 	tp back gravell
 	starsplitter (will need 200k by the end of the run)
 	head ivory
+    == in Ivory (3 minutes):
 	lost tribe axe 
-	exit (1 enc) and then enter back
 	go savepoint (1 enc)
 	save
 	go giant club, save again
 	go evening mist (maybe 1 enc here)
-	you can skip evening mist if u want (it has high e.atk stat though, and sells for 13k??, could be useful)
+    == Ivory encounters:
+    - Revenant alone: break & flee (LP + Elemental x3)
+    - Revenant with Mk Revenant: try to flee
+    - 2 Rev Mk: HHG x3 + Soulstone L
+    - else: HHG x3 or HHG x3 + Soulstone M or HHG x4
+    == back to Gravell:
 	tp back gravell
 	quartz shield chest
 	tp flamechurch
 
+    Note: the reason I go for LT Axe & Giant's Club is that it's will be useful in endgame dungeons so we don't loose money on lvl-45 encounters with HH
+    You can one shot them with Chargeable Catapult at night with Victory Ring equipped (p.def buff)
+
+=== clockbank
+    from New Delsta
+    take boat to Clockbank
+    Chest: 6300L
+    ?? Chest: Pom M (north of the money chest) ??
+    Quest: Catharine
+	Quest: Nyx Family Tree
+	Buy: Soldier's Bow (Shop: Clockbank) - 11000 Leaves
+
 === high iq town
-	road to montwise
-	use inventor + giant/LT
-	thunder M
-	walk last area
+	tp Flamechurch
+    road to montwise
+    1st zone: run, 1 enc (flee)
+    2nd zone: run, 1 enc (use Fire M)
+	Chest: thunder M
+    3rd zone: walk
 	enter Montwise
 	??Gardener: Hidden Item: Wind Soulstone (L)??
-	Margello's Aide: Margello's Personality
-	Historian: Nyx Family History
-
-
-=== art town
-	Illusionist: Red Apple (night, town entry)
-	empowering necklace chest
-	money chest if you want (I skip it)
-	tp crackridge harbor
+    make sure LP is full
+    in Library:
+	Coerce: Margello's Aide: Margello's Personality
+        4 Shield - weak to Staff, Ice & Light - 7 Strength
+	    LP + Elemental x2
+    go to the Lowest level
+    Coerce: Historian: Nyx Family History
+        3 Shield - 4 Strength - Weak to fire
+        Elemental x1 then Elemental x4/Fire 
 
 === justice inquisitor
-	go cropdale
-	coerce grapeguy in tavern
 	go timberain
 		flee cropdale 2 zones
 		inventor wellgrove zone (3rd)
@@ -216,7 +260,6 @@ maybe should go montwise before crackridge/gravell
 		Royal Guard's Mail
 		Empowering bracelet
 		Royal Guard Head
-		??Aegis shield??
 	if no leaves:
 		do quests and buy later (Most important: Royal Guard's Mail)
 	take remorseful's hidden item
@@ -226,10 +269,16 @@ maybe should go montwise before crackridge/gravell
 	then enter and start proof of justice at day
 	take protective necklace (just in case)
 	go townsquare
+	Coerce: Soldier: Great Blade (inventor item)
 	margello & tiffany quest
-	take chest if you want (I skip it)
-	coerce soldier for Great Blade (inventor item)
+    don't forget to take Great Blade
 
+=== art town
+    tp montwise and head to merry hills
+    Chest: Herb of Serenity
+	Coerce: Illusionist: Red Apple (night, town entry)
+    Chest: Empowering Necklace
+    
 === the architect
 	tp canalbrine
 	take nut chest
@@ -238,7 +287,7 @@ maybe should go montwise before crackridge/gravell
 	vados The Architect
 	fight by night, HHGx4 + 1 M Soulstone
 
-=== he protecc
+=== new delsta returns
 	still in canalbrine
 	take castti
 	guide rich father in church (lvl 15)
@@ -252,42 +301,45 @@ maybe should go montwise before crackridge/gravell
 === thank you castti
 	from montwise to stormhail guard
 	if encounter with castti, flee
-	soothe montwise guard with the Herb you didn't sell at the start of the run
-	tp cropdale
-	put castti in tavern
-	tp back montwise and head to stormhail
-
-=== vatican (need victory ring here, or do stormhail later)
-	inventor setup + victory ring + fight at night
-	15000L chest
-	Ice Soulstone L chest (if you want)
-	Raging Beast Chest (sells for ??)
-	buy guardian's Axe (Shop: Stormhail) - 23000L (inventor skill item)
-	tp new delsta
-	go inventor
-	unlock upgraded accessories
-
-=== nuts and cash
-	tp timberain
-	outside timberain, take proof
-	tp again timberain, proof of justice quest (30k, nuts)
-	tp conning creek
-	guide fisherman (need him ch4&5)
-	outside conning creek, grape quest (10k, nourishing M)
-	tp crackridge
+	soothe montwise guard
 
 === mighty staff
+    tp Crackridge
+    don't start ch3
+    coerce guy
+    put Castti in Tavern
 	ch3
-	Mason (Tavern, Night): Hidden Item: Fortifying M
 	Abandoned Road
 	9200L chest
 	Fellsun Ruins
 	Pom (L) at the bottom right of the save point
 	Money Chest
 
+=== vatican (need victory ring here, or do stormhail later)
+	inventor setup + victory ring + fight at night
+	15000L chest
+	?? Ice Soulstone L chest (if you want)??
+	?? Raging Beast Chest (sells for ??)??
+    start ch.4
+    continue story until Sacred Guard HQ
+	buy guardian's Axe (Shop: Stormhail) - 23000L (inventor skill item)
+
+=== upgraded accessories
+	tp new delsta
+	go inventor
+	unlock upgraded accessories
+
+=== proof of justice
+	tp timberain
+	outside timberain, take proof
+	tp again timberain, proof of justice quest (30k, nuts)
+
+=== apothecary & fisherman
+	tp conning creek
+	guide fisherman (need him ch4&5)
+
 === sad bruh moment		- lvl 21 by here
 	tp stormhail
-	ch.4
 	Forbidden Shrine
 	Gleaming Amulet
 	15kL
@@ -306,15 +358,13 @@ maybe should go montwise before crackridge/gravell
 		HHB x4
 		HHG x4
 
-=== pretty pearl
+NOTE:
 	from here you'll need 175k
 	45 for the assassins
 	and 130 for final boss
 	at this point of my 2nd run I'm at 100k
 	and there's a 28k L chests in ch.5
 	so need 37k more
-		I would suggest going for the pretty pearl quest in tropuhopu 
-		Elderly Man looking at the sea (Hidden Item: Pretty Pearl)
 	+ ch.5 encounters give 2k money per battle
 	they are either one shotable with changeable cat
 	or changeable cat + soulstone
@@ -342,11 +392,11 @@ maybe should go montwise before crackridge/gravell
 	skip cutscene and tp nameless village
 	take the beastling and back to wood
 	equip victory ring, inventor setup, night
-	28k chest, Light Soulstone L
+	28k chest
 	Rifted Rock, chests:
 		Revitalizing Jam (you may need this)
-		Hallowed Rod
-		Void Amulet
+
+=== getting prepared
 	prepare for kaldena, gear I used at lvl 30:
 	
 	Merch
