@@ -8,37 +8,29 @@ Still in draft state. Revisions:
 4.   11.04.23    13:44
 -------------------------------------------------------
 ## Thoughts
-Tested this:
-```
-felvarg ~2200L (need LP next)
-pretty pearl ~15k (2200 + 15000 - 1500 + enc)
-soulstones ~25k (sell mirage bow & herb)
-evasive (need LP next)
-winterbloom (go to inn here)
-abandoned chest
-montwise (need LP here)
-crackridge
-merch/gravell
-timberain I
-merry hills (empowering, herb)
-canalbrine I, take castti (ch.2 until lucian house)
-soothe guard
-canabrine II, deposit castti, take rich father and go for vados
-New Delsta I (rich father, unerring, killer's motive, victory)
-conning creek (grape guy, apothecary, rainbow)
-timberain II (proof of justice)
-stormhail
-clockbank
-inventor
-ch.3
-ravine
-full gear
-assassins
-ch.4
-nameless village
-```
-- and going Inventor last is a bad idea, loses a lot of time & money.
 - do we really need Upgraded Accessories? It costs 35k to get. But makes you gain 750HP for two last bosses.
+
+- Run money cost (337k to 411k)
+    - Vados: HHG + M Soulstone 7k
+    - Deputy Cubary: HHB x2 30k
+    - Assassins: HHB & HHV 45k
+    - Kaldena (125 to 175)
+        - 1st Phase: HHB x3 (75k)
+        - 2nd Phase: HHA or HHA+HHV or HHA x2 (50 to 100k)
+    - Random encounters (49k to 73k)
+        - Gravell: HHG x2 (14k)
+        - Ravine: HHG x2 to HHB x2 (14k to 30k)
+        - Timberain: HHG x2 (14k)
+        - Merry Hills: HHG or HHB (7k to 15k)
+    - Gear (46k)
+        - Imperial Helm (13k)
+        - Royal Guard's Mail (26,5k)
+        - Empowering Bracelet (6,5k)
+    - Upgraded Accessories (35k)
+
+- Money Earned
+    - Quests:
+        - 
 
 ## Current Route
 ```
