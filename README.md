@@ -1,23 +1,25 @@
 # Temenos Solo Run Notes
 
--------------------------------------------------------
-Still in draft state. Revisions:
-1. 	10.04.23	4:00
-2.	10.04.23	7:33
-3.   10.04.23    9:18
-4.   11.04.23    13:44
+## Updates
+1. 10.04.23  4:00
+2. 10.04.23	 7:33
+3. 10.04.23  9:18
+4. 11.04.23 13:44
+5. 13.04.23  3:43
+    Important changes:
+    - No Assassins anymore (saves a lot of leaves and money)
+    - Not going for Winterbloom's Ice M
+    - Clockbank money chest later
 -------------------------------------------------------
 ## Thoughts
 - do we really need Upgraded Accessories? It costs 35k to get. But makes you gain 750HP for two last bosses.
-
-- Run money cost (337k to 411k)
+- Run money cost
     - Vados: HHG + M Soulstone 7k
-    - Deputy Cubary: HHB x2 30k
-    - Assassins: HHB & HHV 45k
-    - Kaldena (125 to 175)
-        - 1st Phase: HHB x3 (75k)
-        - 2nd Phase: HHA or HHA+HHV or HHA x2 (50 to 100k)
-    - Random encounters (49k to 73k)
+    - Deputy Cubary: HHB + HHV 45k
+    - Kaldena (at least 100k, 130k to be sure)
+        - 1st Phase: HHV x3
+        - 2nd Phase: HHV 
+        - Random encounters (49k to 73k)
         - Gravell: HHG x2 (14k)
         - Ravine: HHG x2 to HHB x2 (14k to 30k)
         - Timberain: HHG x2 (14k)
@@ -27,12 +29,13 @@ Still in draft state. Revisions:
         - Royal Guard's Mail (26,5k)
         - Empowering Bracelet (6,5k)
     - Upgraded Accessories (35k)
-
 - Money Earned
     - Quests:
         - 
 
-## Current Route
+## Current Route:
+Upgraded Accessories, no Assassins, no Aelfric, nuts farming, Timberain (Proof of) quests, New Delsta, Clockbank, Merry Hills & Montwise quests.
+
 ```
 === felvarg
     speed up & skip cutscenes
@@ -73,7 +76,6 @@ Still in draft state. Revisions:
 
 === pretty pearl (need full LP)
     you should have something like 2200L
-	go for the south clockbank 6300L chest
 	tag New Delsta
     tag ND Harbor
     tag Abandoned Village
@@ -81,7 +83,6 @@ Still in draft state. Revisions:
     ferry to Beasting Bay (1500L)
     == Road to Tropuhopu
     walk until Western Tropu'hopu Traverse savepoint
-    encounters: don't use your LP, we need it in Tropu'hopu
     save & reload
     walk to Chest: Light M
     1 encounter: use Light M
@@ -101,7 +102,7 @@ Still in draft state. Revisions:
     you should have 20000L now
     Chest: Herb of Serenity 
     switch day/night until clerics appear
-    you can sell Cupid's Bow (4k) if you want
+    Sell Herb of Serenity (we'll get one in Merry Hills for Castti guard soothing) and Cupid's Bow
 	buy
         1 Fire S, 1 Ice S, 1 Thunder S (Inventor objects) 
         2 Fire M (Montwise)
@@ -130,7 +131,6 @@ Still in draft state. Revisions:
         T3 LP+Elemental x4
     go take the Rev Jam at the inn
     go inn to recharge LP
-    Chest: Ice M (behind Phonograph House, right side)
     switch to day
 
     Note: still not sure if going to Winterbloom is necessary but we do need rev jams for final boss
@@ -190,8 +190,8 @@ Still in draft state. Revisions:
 	1 enc, HHG x4 at night usually work
 	20+k money chest
 	tp back gravell
-	starsplitter (will need 200k by the end of the run)
 	head ivory
+    Chest: Starsplitter (sells for 10k)
     == in Ivory (3 minutes):
 	lost tribe axe 
 	go savepoint (1 enc)
@@ -211,14 +211,6 @@ Still in draft state. Revisions:
     Note: the reason I go for LT Axe & Giant's Club is that it's will be useful in endgame dungeons so we don't loose money on lvl-45 encounters with HH
     You can one shot them with Chargeable Catapult at night with Victory Ring equipped (p.def buff)
 
-=== clockbank
-    from New Delsta
-    take boat to Clockbank
-    Chest: 6300L
-    ?? Chest: Pom M (north of the money chest) ??
-    Quest: Catharine
-	Quest: Nyx Family Tree
-	Buy: Soldier's Bow (Shop: Clockbank) - 11000 Leaves
 
 === high iq town
 	tp Flamechurch
@@ -239,21 +231,31 @@ Still in draft state. Revisions:
         3 Shield - 4 Strength - Weak to fire
         Elemental x1 then Elemental x4/Fire 
 
+=== clockbank
+    from New Delsta
+    take boat to Clockbank
+    Chest: 6300L
+    Chest: Pom M (north of the money chest)
+    Quest: Catharine
+	Quest: Nyx Family Tree
+	Buy: Soldier's Bow (Shop: Clockbank) - 11000 Leaves
+
 === justice inquisitor
 	go timberain
 		flee cropdale 2 zones
 		inventor wellgrove zone (3rd)
 		merch (HHG x4 at night) for 4th
 	in timberain:
-	coerce remorseful man in front of tavern
-	coerce soldier: More plentiful provision
-		use LP + elemental barrage
+	Coerce remorseful man in front of tavern
+        Bow x2 (Merchant) (no LP)
+    in Armorer's:
+	Coerce soldier: More plentiful provision
+		use LP + elemental barrage (8 shield)
 	buy:
 		Royal Guard's Mail
 		Empowering bracelet
 		Royal Guard Head
-	if no leaves:
-		do quests and buy later (Most important: Royal Guard's Mail)
+    sell weapons if needed
 	take remorseful's hidden item
 	guide bridge girl
 	talk to court guard at day (1st quest)
@@ -262,27 +264,27 @@ Still in draft state. Revisions:
 	take protective necklace (just in case)
 	go townsquare
 	Coerce: Soldier: Great Blade (inventor item)
-	margello & tiffany quest
-    don't forget to take Great Blade
+    Margello & Tiffany quest
+    Take the Great Blade inside guard's hideout
 
 === art town
     tp montwise and head to merry hills
-    Chest: Herb of Serenity
+    Chest: Herb of Serenity (front of stairs)
 	Coerce: Illusionist: Red Apple (night, town entry)
     Chest: Empowering Necklace
     
 === the architect
 	tp canalbrine
 	take nut chest
-	investigate lucian's house
-	money chest top of ship
+	Investigate lucian's house
+	Money chest top of ship (5000L)
 	vados The Architect
 	fight by night, HHGx4 + 1 M Soulstone
 
-=== new delsta returns
+=== New Delsta Quests
 	still in canalbrine
 	take castti
-	guide rich father in church (lvl 15)
+	Guide rich father in church (lvl 15)
 	tp new delsta
 	rich father quest (9k)
 	in new delsta backstreets
@@ -307,11 +309,13 @@ Still in draft state. Revisions:
 	Pom (L) at the bottom right of the save point
 	Money Chest
 
-=== vatican (need victory ring here, or do stormhail later)
+=== vatican 
+    TP Montwise
+    Head Stormhail
 	inventor setup + victory ring + fight at night
 	15000L chest
-	?? Ice Soulstone L chest (if you want)??
-	?? Raging Beast Chest (sells for ??)??
+	Ice Soulstone L chest
+	?? Raging Beast Chest (sells for 7k)??
     start ch.4
     continue story until Sacred Guard HQ
 	buy guardian's Axe (Shop: Stormhail) - 23000L (inventor skill item)
@@ -324,6 +328,7 @@ Still in draft state. Revisions:
 === proof of justice
 	tp timberain
 	outside timberain, take proof
+    Chest: Hypno Sword (sells for +11k)
 	tp again timberain, proof of justice quest (30k, nuts)
 
 === apothecary & fisherman
@@ -346,63 +351,26 @@ Still in draft state. Revisions:
         upgraded accessories (+750HP)
     You can go for the Gleaming amulet if you want
 
-	== Deputy Cubaryi 53500 HP / collect 16k / cost 37k
+	== Deputy Cubaryi 53500 HP / collect 16k / cost 45k
 		weak to staff & polearm 1st phase
 		painful physical attacks, light attacks, and m.def debuffs
-		summon fisherman to brk shield
-        strat not consistent yet below, cost: 37k
-
-        Phase 1 (5 Shield)
-        T1 Summon
-        T2 Mystical Staff (breaks)    
-        T3 Collect x4 (Broken)
-        Phase 2
-        T4 Summon
-        T5 Pom L/Rev Jam (if low HP)
-        T6 HHR x3
-        T7 HHB x4
-        T8 Pom M/L
-        T9 HHB x3
-
-NOTE:
-	from here you'll need 175k
-	45 for the assassins
-	and 110 to  for final boss
-	at this point of my 2nd run I'm at 100k
-	and there's a 28k L chests in ch.5
-	so need 37k more
-	+ ch.5 encounters give 2k money per battle
-	they are either one shotable with changeable cat
-	or changeable cat + soulstone
-	must have Victory Ring equipped and fight by night
-	and there will be 4-6 encounters 
-	sell stuff (I keep giant club & lost axe though)
-	also make sure you have the suggested equipment
-	if you want to go with different gear
-	prioritize optimization:
-		HP then
-		P.DEF and then
-		M.DEF
-
-=== apolitical night owls
-	I used HHBx4 then HHVx3
-	with Temenos' night debuff
-	no Summon
-	Maybe there's some money optimization to do here
+        Summon + HHB x3 (breaks) + HHV x4 (when broken)
 
 === no gps signal zone
-	nameless village
+	== nameless village
 	start ch4
 	== Wandering Wood:
     right then left x2
 	tp nameless village
-	take the beastling and back to wood
+    == Back to Nameless Village
+    SELL Stuff (Evening Mist, Hypno Sword, Starsplitter, Raging Beast...)
+	Guide the beastling and back to wood
+    == Back to Wood
     Chest: 28k
     Chest: Light Soulstone (L)
 	== Rifted Rocks:
 	Chest: Revitalizing Jam (you may need this)
 
-=== getting prepared
 	prepare for kaldena, gear I used at lvl 30:
 	
 	Merch
@@ -412,52 +380,42 @@ NOTE:
 	Boost Start
 	Upgraded Accessories
 
-	Polearm		Whatever Bow			Whatever
-	Staff		Whatever (maybe Hallowed Rod can be userful?)
-    Armor       .
-    Head        .
+    Armor       Royal Guard Mail
+    Head        Royal Guard Head
 	Shield		Quartz Shield
 	Accessory 1	Empowering Necklace
 	Accessory 2	Empowering Bracelet
 	
 	make sure it's night and that you have healing items (jams, Poms, Red Apples)
 
-    In Best Case Scenario, you'll use:
-    First phase: HHB three times, HHV once
-    Second phase: HHA once
-    
-    If not you would probably use either HHA twice or HHA+HHV second phase.
-
 === doubt is what I do
 
-    Kaldena (100000HP)
+    Kaldena (100k HP)
 
 	Phase 1: (Cost 75k)
 		1. Summon Fisherman
-		2. break & deal less than 35k damage
-			HHB x4 broken debuffed does 31/32k
-			HHV x3 broken debbufed does 30k
-			HHV x3 broken non-debuffed does 27k (so better go with HHBx2 to brk+deal dmg, and then HHBx4 to reach 32k)
+		2. break & deal less than ~40k damage
+        I let Fisherman break her shield while I heal/Boost and when she's broken I go for HHVx4
 		3. Summon Fisherman again
-        4. heal somewhere here
-		5. break & deal as much dmg as u can
-			
-        Note: I never had her debuffed on this stage as I was always either lacking HP or BP or sth else
-		Ideal would be that she's debuffed, you're nearly full HP, she has 1 SP left, break with HHB x3 and tank with HHV x4, should do around 50/60k dmg
+		4. break & deal as much dmg as u can
+        What I do here is that I wait until her shield is 1 or near 1. At this point, Fisherman has to be retreated (so he doesn't break her yet), you should have at least 2/3 HP and full BP. When these conditions are reunited, go for:
+        HHV x3 (breaks)
+        HHV x4 (when broken)
+        This will deal about ~55k dmg
 
-	Phase 2: should be 35k to 20k hp left (Cost: 50/80/100k)
-		don't break, don't debuff (useless)
-		1. Boost/Heal (Rev Jam/Pom L/Red Apple)
-        2. If Terror, use Wriggling Root
-        3. HHA x4
-        4. if still alive, boost/heal and either HHV x4 or HHAx4 (if you have 50k)
+        HHV x3 breaks her shield at the first hit as the first weapon to be used is a spear (to be verified)
 
-	expensive for now, maybe better way
+	Phase 2: 
+        Here she acts 3 times in a turn, she hits hard, and she can inflict Terror, use Wriggling Root (heals + cures) if that happens
+        If you dealt enough damage in 1st phase
+        Boost (Rev Jam or Red Apple) & HHV x4 will be enough
+        If not, go for HHV/HHB again if enough money or use L Soulstones 
 
-	more details below
+        skip cutscenes
+        gg
 ```
 
-## 1st run notes
+## DRAFT/Old Notes 
 
 ```
 Flamechurch
