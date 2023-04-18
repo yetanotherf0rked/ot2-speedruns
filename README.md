@@ -17,7 +17,7 @@
     - boss fights strats updates
     - still in Progress: JP Augmentor/Evil Ward Route
 -------------------------------------------------------
-## Thoughts
+## Finance things
 - Run money cost
 BOSSES
     - vados             HHB                              15000L
