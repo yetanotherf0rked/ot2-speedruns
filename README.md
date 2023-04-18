@@ -6,10 +6,16 @@
 3. 10.04.23  9:18
 4. 11.04.23 13:44
 5. 13.04.23  3:43
-    Important changes:
     - No Assassins anymore (saves a lot of leaves and money)
     - Not going for Winterbloom's Ice M
     - Clockbank money chest later
+6. 18.04.23 14:57
+    - no Victory Rings
+    - no Margello
+    - no Ravine
+    - Castti in party to Stormhail
+    - boss fights strats updates
+    - still in Progress: JP Augmentor/Evil Ward Route
 -------------------------------------------------------
 ## Thoughts
 - Run money cost
