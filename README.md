@@ -12,23 +12,22 @@
     - Clockbank money chest later
 -------------------------------------------------------
 ## Thoughts
-- do we really need Upgraded Accessories? It costs 35k to get. But makes you gain 750HP for two last bosses.
-- Run money cost
-    - Vados: HHG + M Soulstone 7k
-    - Deputy Cubary: HHB + HHV 45k
-    - Kaldena (at least 100k, 130k to be sure)
-        - 1st Phase: HHV x3
-        - 2nd Phase: HHV 
-        - Random encounters (49k to 73k)
-        - Gravell: HHG x2 (14k)
-        - Ravine: HHG x2 to HHB x2 (14k to 30k)
-        - Timberain: HHG x2 (14k)
-        - Merry Hills: HHG or HHB (7k to 15k)
-    - Gear (46k)
-        - Imperial Helm (13k)
-        - Royal Guard's Mail (26,5k)
-        - Empowering Bracelet (6,5k)
-    - Upgraded Accessories (35k)
+- run money cost
+    - vados: hhg + m soulstone 7k
+    - deputy cubary: hhb + hhv 45k
+    - kaldena (at least 100k, 130k to be sure)
+        - 1st phase: hhv x3
+        - 2nd phase: hhv 
+        - random encounters (49k to 73k)
+        - gravell: hhg x2 (14k)
+        - ravine: hhg x2 to hhb x2 (14k to 30k)
+        - timberain: hhg x2 (14k)
+        - merry hills: hhg or hhb (7k to 15k)
+    - gear (46k)
+        - imperial helm (13k)
+        - royal guard's mail (26,5k)
+        - empowering bracelet (6,5k)
+    - upgraded accessories (35k)
 - Money Earned
     - Quests:
         - 
@@ -352,9 +351,27 @@ Upgraded Accessories, no Assassins, no Aelfric, nuts farming, Timberain (Proof o
     You can go for the Gleaming amulet if you want
 
 	== Deputy Cubaryi 53500 HP / collect 16k / cost 45k
+
 		weak to staff & polearm 1st phase
 		painful physical attacks, light attacks, and m.def debuffs
-        Summon + HHB x3 (breaks) + HHV x4 (when broken)
+
+        Gear:
+        - Empowering Bracelet
+        - Royal Guard's Mail
+        - Protective Necklance (Timberain chest)
+
+        Support Skills:
+        - SA
+        - Boost Start
+        - Grows on Trees
+        - Evasive Maneuvers
+
+        Strat:
+        T1 Mystical Staff
+        T2 Mystical Staff
+        T3 Sidestep
+        T4 HHB x3
+        T5 HHV x4
 
 === no gps signal zone
 	== nameless village
@@ -828,47 +845,51 @@ Jams/Poms/Red Apples..
 
 NPC
 
-Townsperson	Winterbloom	Hidden Item: Rev Jam
-Young Man	New Delsta	Hidden Item: Ref Jam
-Elderly Woman	Cape Cold	Hidden Item: Pom S
-Townsperson	Flamechurch	Hidden Item: Pom M
-Boy		Sai: East	Hidden Item: Pom L
-Illusionist	Merry Hills	Hidden Item: Red Apple
+Townsperson	    Winterbloom	        Hidden Item: Rev Jam
+Young Man	    New Delsta          Hidden Item: Ref Jam
+Elderly Woman	Cape Cold           Hidden Item: Pom S
+Townsperson	    Flamechurch	        Hidden Item: Pom M
+Boy		        Sai: East	        Hidden Item: Pom L
+Illusionist	    Merry Hills         Hidden Item: Red Apple
 
 Chests
 
 Crestlands/
-
 Western Montwise Pass		Pom (M)
 Seat of the Water Sprite	Pom (L)
-Forsaken Graveyard		Grail of Life
+Forsaken Graveyard		    Grail of Life
 
 Brightlands	
 Southern Clockbank Highroad	Pom (M)
-Deserted Highroad		Pom (M)
+Deserted Highroad		    Pom (M)
 
 Toto'haha
-Beasting Village	Reinforcing Jam
-Tropu'Hopu		Pom (M)
-Rifted Rock		Revitalizing Jam
-Verdant Wood		Pom (L)
+Beasting Village	        Reinforcing Jam
+Tropu'Hopu		            Pom (M)
+Rifted Rock		            Revitalizing Jam
+Verdant Wood		        Pom (L)
 
 Harborlands
-Canalbrine Bridge	Refreshing Jam
-Lair of the Usurper	Grail of Life
+Canalbrine Bridge	        Refreshing Jam
+Lair of the Usurper	        Grail of Life
 
-Hinoeuma/	Southern Sai Sands	Pom (M)
-Hinoeuma	Western Sai Sands	Reinforcing Jam
-Hinoeuma	Quicksand Gaol	Reinforcing Jam
-Hinoeuma	Decaying Temple	Pom (M)
-Hinoeuma	Eastern Ku Sands	Pom (L)
-Hinoeuma	Tranquil Grotto	Reinforcing Jam
-Wildlands/	Fellsun Ruins	Pom (L)
-Wildlands	Western Gravell Wilds	Pom (L)
-Wildlands	Path to Duskruin Shrine	Pom (M)
-Leaflands/	Northern Wellgrove Trail	Pom (L)
-Leaflands	Eastern Wellgrove Trail	Refreshing Jam
-Leaflands	Secret Forest	Refreshing Jam
-Leaflands	Southern Timberain Trail	Refreshing Jam
-Leaflands	Southern Timberain Trail	Pom (M)
+Hinoeuma
+Southern Sai Sands	        Pom (M)
+Western Sai Sands	        Reinforcing Jam
+Quicksand Gaol	            Reinforcing Jam
+Decaying Temple	            Pom (M)
+Eastern Ku Sands	        Pom (L)
+Tranquil Grotto	Reinforcing Jam
+
+Wildlands
+Fellsun Ruins	            Pom (L)
+Western Gravell Wilds	    Pom (L)
+Path to Duskruin Shrine	    Pom (M)
+
+Leaflands
+Northern Wellgrove Trail	Pom (L)
+Eastern Wellgrove Trail	    Refreshing Jam
+Secret Forest	            Refreshing Jam
+Southern Timberain Trail	Refreshing Jam
+Southern Timberain Trail	Pom (M)
 ```

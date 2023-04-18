@@ -1,0 +1,48 @@
+Western Tropu'hopu Traverse
+From Beasting Bay Screen to Save point
+
+Temenos 9
+RNG     31
+
+25% chance to get to the savepoint without enc
+
+1 535 Fail before sign
+2 781 Win
+3 701 Fail before 2nd wall
+4 801 Win & 41 left
+5 529 Fail
+6 500ish Fail
+7 644 Fail
+8 638 Fail
+9 881 Win (67 left)
+10 694 Fail
+11 793 Fail
+12 ??? Fail
+13 869 Win 
+14 625 Fail
+15 675 Fail
+16 752 Fail
+17 720 Fail
+18 687 Fail
+19 542 Fail
+20 727 Fail
+21 744 Fail
+22 533 Fail
+23 866 Win
+24 710 Fail
+25 717 Fail
+26 560 Fail
+27 550 Fail
+28 667 Fail
+29 670 Fail
+30 689 Fail
+31 570 Fail
+32 750 Fail but close 
+33 647 Fail
+34 644 Fail
+35 774 Win                  d = 770
+36 798 Win (39 left)        d = 760
+37 688 Fail
+38 880 Win (83 left wtf)    d = 790
+39 793 Win (45 left)        d = 750
+40 572 Fail
