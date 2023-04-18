@@ -12,28 +12,67 @@
     - Clockbank money chest later
 -------------------------------------------------------
 ## Thoughts
-- run money cost
-    - vados: hhg + m soulstone 7k
-    - deputy cubary: hhb + hhv 45k
-    - kaldena (at least 100k, 130k to be sure)
-        - 1st phase: hhv x3
-        - 2nd phase: hhv 
-        - random encounters (49k to 73k)
-        - gravell: hhg x2 (14k)
-        - ravine: hhg x2 to hhb x2 (14k to 30k)
-        - timberain: hhg x2 (14k)
-        - merry hills: hhg or hhb (7k to 15k)
-    - gear (46k)
-        - imperial helm (13k)
-        - royal guard's mail (26,5k)
-        - empowering bracelet (6,5k)
-    - upgraded accessories (35k)
+- Run money cost
+BOSSES
+    - vados             HHB                              15000L
+    - deputy cubary     HHB, HHV                         45000L
+    - kaldena           HHV x4, HHB x1, HHR x1 (?)      105500L
+ENCOUNTERS
+    - gravell           HHG                               7000L
+    - timberain         HHG                               7000L
+GEAR
+    - imperial helm                                      13000L 
+    - royal guard's mail                                 26500L 
+    - empowering bracelet                                 6500L
+
 - Money Earned
     - Quests:
-        - 
+        - Pearl Hunt                                     15000L
+        - Proof of Innocence                             1?000L
+        - Proof of Guilt                                 1?000L
+        - Proof of Justice                               30000L
+        - Grape Guy                                      10000L
+        - Rich dad                                        9000L
+        - ???
+    - Chests:
+        - Outside Clockbank                               6???L
+        - Outside Crackridge                              6???L
+        - Near Merchant                                   9???L
+        - Outside Gravell                                28500L
+        - Abandoned Road                                  9???L
+        - Outside Stormhail                              15000L
+        - Forbidden Shrine                               ?????L
+        - Wandering Wood                                 28000L
+        - ???
+    - Sold Items:
+        - Starsplitter                                   10000L
+        - Cupid's Bow                                     4000L
+        - ???
 
 ## Current Route:
-Upgraded Accessories, no Assassins, no Aelfric, nuts farming, Timberain (Proof of) quests, New Delsta, Clockbank, Merry Hills & Montwise quests.
+- Felvarg
+- Pretty Pearl
+- Soulstones
+- Evasive Maneuvers
+- Winterbloom
+- JP Augmentor
+- Abandoned Waterways Chest & Unerring
+- Canalbrine
+- Grape Guy
+- Conning Creek
+- Inventor
+- Montwise
+- Merch
+- Gravell
+- Timberain
+- Road to Stormhail with Castti
+- Vados (ch.2 Canalbrine)
+- New Delsta Quests (Rich Dad, Killer's motive)
+- Proof of Justice
+- Mighty Staff (ch.3 Crackridge Route)
+- Sad Bruh Moment (ch.3 Stormhail Route)
+- Fisherman
+- Doubt is what he does (ch.4 Nameless Village)
 
 ```
 === felvarg
@@ -81,7 +120,8 @@ Upgraded Accessories, no Assassins, no Aelfric, nuts farming, Timberain (Proof o
     tp ND Harbor
     ferry to Beasting Bay (1500L)
     == Road to Tropuhopu
-    walk until Western Tropu'hopu Traverse savepoint
+    run, 1 enc, walk
+    walk to save point (75% enc before save point)
     save & reload
     walk to Chest: Light M
     1 encounter: use Light M
@@ -98,17 +138,19 @@ Upgraded Accessories, no Assassins, no Aelfric, nuts farming, Timberain (Proof o
 === get soulstones
     tp Abandoned Village
     head black market
-    you should have 20000L now
     Chest: Herb of Serenity 
     switch day/night until clerics appear
-    Sell Herb of Serenity (we'll get one in Merry Hills for Castti guard soothing) and Cupid's Bow
+    sell cupid's bow, don't sell Herb
+    you should have 25k now
 	buy
         1 Fire S, 1 Ice S, 1 Thunder S (Inventor objects) 
         2 Fire M (Montwise)
+        1 Ice M
         7 Light M (6 Crackridge area & 1 Clockbank)
-        3 Shad M (2 Evasive, 1 Winterbloom, 1 Timberain)
+        4 Shad M (2 Evasive, 1 Winterbloom, 1 Timberain)
 
 === winterbloom (need full LP)
+
     == to Evasive Maneuvers
     I run both low level areas (1 enc each, flee)
     in mid level area, use Shad M
@@ -116,9 +158,9 @@ Upgraded Accessories, no Assassins, no Aelfric, nuts farming, Timberain (Proof o
 	unlock Lightning Bolt & Elemental Barrage (very important for High Shield Coerces)
     keep Scholar equipped
     equip Evasive Maneuvers
-    head Altar again
-	Chest: Ice M 
+    head Altar again (if you don't trust yourself)
     1 enc to Winterbloom
+
 	== in Winterbloom:
     switch to night
     make sure LP full (or go to the inn)
@@ -129,10 +171,8 @@ Upgraded Accessories, no Assassins, no Aelfric, nuts farming, Timberain (Proof o
         T2 if 6SP LP+Elemental x3 else Elemental x1
         T3 LP+Elemental x4
     go take the Rev Jam at the inn
-    go inn to recharge LP
+    go inn to recharge LP for Grape Guy
     switch to day
-
-    Note: still not sure if going to Winterbloom is necessary but we do need rev jams for final boss
 
 === abandoned chest & unerring
     tp abandoned village
@@ -153,83 +193,82 @@ Upgraded Accessories, no Assassins, no Aelfric, nuts farming, Timberain (Proof o
 
 === grape guy (need LP)
     tp ND Harbor
-    ferry to Crackridge Harbor
+    ferry to Crackridge Harbor (2500L)
 	go cropdale
-    take 1600 chest if you want
 	in Cropdale:
     Coerce: Grape Expert in tavern
         weak to Ice - 4 shield - 5 strength
         LP + Elemental x2
 
-=== 300 iq guy
+=== conning creek
     tp canalbrine
 	head to conning creek, use 2 Light M
     encounters at night
+    ## STILL TESTING THIS
+    Apothecary 
+    ##
 	rainbow glass
+
+=== 300 iq guy
 	tp ND
     unlock inventor
 	unlock 2 skills
 
-=== bloated job
-    tp ND Harbor
-    ferry to Crackridge Harbor (2500L)
-    enc: 1 Light M + any M (I use Light Ms)
-    in Crackridge:
-	Coerce: Mason (Tavern, Night): Hidden Item: Fortifying M
-	head merch
-	8k chest
-	thunder M chest
-	equip merch
-	unlock Hired Help, Collect and Sidestep
-	equip Grows on Trees & Boost Start
-
-=== game over zone (need optimization/cut)
-    == to Gravell:
-	head gravell
-	1 enc, HHG x4 at night usually work
-	20+k money chest
-	tp back gravell
-	head ivory
-    Chest: Starsplitter (sells for 10k)
-    == in Ivory (3 minutes):
-	lost tribe axe 
-	go savepoint (1 enc)
-	save
-	go giant club, save again
-	go evening mist (maybe 1 enc here)
-    == Ivory encounters:
-    - Revenant alone: break & flee (LP + Elemental x3)
-    - Revenant with Mk Revenant: try to flee
-    - 2 Rev Mk: HHG x3 + Soulstone L
-    - else: HHG x3 or HHG x3 + Soulstone M or HHG x4
-    == back to Gravell:
-	tp back gravell
-	quartz shield chest
-	tp flamechurch
-
-    Note: the reason I go for LT Axe & Giant's Club is that it's will be useful in endgame dungeons so we don't loose money on lvl-45 encounters with HH
-    You can one shot them with Chargeable Catapult at night with Victory Ring equipped (p.def buff)
-
-
-=== high iq town
+=== 300 iq town
 	tp Flamechurch
     road to montwise
     1st zone: run, 1 enc (flee)
     2nd zone: run, 1 enc (use Fire M)
 	Chest: thunder M
-    3rd zone: walk
-	enter Montwise
-	??Gardener: Hidden Item: Wind Soulstone (L)??
-    make sure LP is full
-    in Library:
-	Coerce: Margello's Aide: Margello's Personality
-        4 Shield - weak to Staff, Ice & Light - 7 Strength
-	    LP + Elemental x2
-    go to the Lowest level
-    Coerce: Historian: Nyx Family History
-        3 Shield - 4 Strength - Weak to fire
-        Elemental x1 then Elemental x4/Fire 
+    3rd zone: run to 1st stairs then walk
+	tag Montwise
 
+=== bloated job
+
+    == to Crackridge
+    tp Crackridge Harbor
+    1 enc flee
+    before next screen:
+        equip Inventor
+        ## STILL TESTING THIS
+        unlock & equip Hale & Hearty 
+        ##
+        heal if needed
+    run then 1 enc (switch to night): 1 Light M + any M (I use Light Ms)
+    Chest: 6???L
+    walk to next screen
+    run then 1 enc (same strat)
+    tag Crackridge
+
+    == to Merchant:
+    ## THIS IS NOT NECESSARY BUT ADDS CONSISTENCY TO THE RUN
+	Coerce: Mason (Tavern, Night): Hidden Item: Fortifying M
+    ##
+	run to chest
+    1 enc (still same strat)
+	Chest: 8???L
+    walk to Merchant
+    coerce Merchant at night and then Give Up (resets Step Counter)
+    Chest: Thunder M
+    unlock & equip merch
+	unlock Hired Help then Sidestep then Collect
+	equip Grows on Trees & Boost Start
+    head Gravell
+
+=== game over zone
+    == to Gravell:
+	1 enc, HHG x4 usually work (switch to Night before 1st bridge)
+    enter Gravell
+    outside Gravell
+	Chest: 28???L
+	tp back Gravell
+    outside Gravell Again
+    run then walk when you're near the bridge
+    Chest: Starsplitter (sells for 10k)
+    tp back Gravell
+    Chest: Quartz Shield
+
+#### THIS HAS BEEN CUT
 === clockbank
     from New Delsta
     take boat to Clockbank
@@ -238,117 +277,117 @@ Upgraded Accessories, no Assassins, no Aelfric, nuts farming, Timberain (Proof o
     Quest: Catharine
 	Quest: Nyx Family Tree
 	Buy: Soldier's Bow (Shop: Clockbank) - 11000 Leaves
+##
 
 === justice inquisitor
-	go timberain
-		flee cropdale 2 zones
-		inventor wellgrove zone (3rd)
-		merch (HHG x4 at night) for 4th
+	tp cropdale
+    go timberain
+		flee outside cropdale 2 screens
+        either flee or Shad M + any S/M 3rd screen
+		either flee or merch (HHG x4 at night) 4th
 	in timberain:
 	Coerce remorseful man in front of tavern
         Bow x2 (Merchant) (no LP)
     in Armorer's:
+    Switch to Scholar
 	Coerce soldier: More plentiful provision
 		use LP + elemental barrage (8 shield)
+        if it fails, go recharge at the inn and retry
 	buy:
 		Royal Guard's Mail
 		Empowering bracelet
-		Royal Guard Head
-    sell weapons if needed
-	take remorseful's hidden item
+        Imperial Head
+        sell Starsplitter if needed
+	take remorseful's man hidden item
 	guide bridge girl
 	talk to court guard at day (1st quest)
 	then at night (2nd quest)
 	then enter and start proof of justice at day
-	take protective necklace (just in case)
+	Chest: Protective Necklace
+    #### THIS HAS BEEN CUT
 	go townsquare
 	Coerce: Soldier: Great Blade (inventor item)
     Margello & Tiffany quest
     Take the Great Blade inside guard's hideout
+    ##
 
+#### THIS HAS BEEN CUT
 === art town
     tp montwise and head to merry hills
     Chest: Herb of Serenity (front of stairs)
 	Coerce: Illusionist: Red Apple (night, town entry)
     Chest: Empowering Necklace
-    
+##  
+
+=== THESE HANDS
+    tp canalbrine
+    take castti
+    tp montwise
+	from montwise to stormhail guard
+	if encounter with castti, flee
+	soothe montwise guard
+    1st screen:
+    run then 1 enc then walk to exit
+    2nd screen (outside Stormhail):
+    run then 1 enc then walk
+    Chest: 15000L
+    walk to Beneath the Wall
+    go Back
+    walk to Stormhail
+
 === the architect
 	tp canalbrine
-	take nut chest
+    Chest: Resistant Nut (I don't take this one anymore)
 	Investigate lucian's house
-	Money chest top of ship (5000L)
-	vados The Architect
-	fight by night, HHGx4 + 1 M Soulstone
+    head to tavern
+    remove Castti
+    go upstairs
+    Switch Scholar & Night
+    Coerce: Vados
+        use LP + Elemental
+    to Sacred Guard Ship
+	Guide rich father in church (lvl 15)
+	Vados The Architect
+        HHB x4 (or HHG x4 at night + any M)
 
 === New Delsta Quests
-	still in canalbrine
-	take castti
-	Guide rich father in church (lvl 15)
 	tp new delsta
 	rich father quest (9k)
 	in new delsta backstreets
 	coerce killer's motive
-	game parlor quest
 	tp montwise
-
-=== thank you castti
-	from montwise to stormhail guard
-	if encounter with castti, flee
-	soothe montwise guard
-
-=== mighty staff
-    tp Crackridge
-    don't start ch3
-    coerce guy
-    put Castti in Tavern
-	ch3
-	Abandoned Road
-	9200L chest
-	Fellsun Ruins
-	Pom (L) at the bottom right of the save point
-	Money Chest
-
-=== vatican 
-    TP Montwise
-    Head Stormhail
-	inventor setup + victory ring + fight at night
-	15000L chest
-	Ice Soulstone L chest
-	?? Raging Beast Chest (sells for 7k)??
-    start ch.4
-    continue story until Sacred Guard HQ
-	buy guardian's Axe (Shop: Stormhail) - 23000L (inventor skill item)
-
-=== upgraded accessories
-	tp new delsta
-	go inventor
-	unlock upgraded accessories
 
 === proof of justice
 	tp timberain
 	outside timberain, take proof
-    Chest: Hypno Sword (sells for +11k)
+    1 enc, use HHG x4 at night
 	tp again timberain, proof of justice quest (30k, nuts)
 
-=== apothecary & fisherman
-	tp conning creek
-	guide fisherman (need him ch4&5)
-
-=== sad bruh moment		- lvl 21 by here
-	tp stormhail
-    continue story
+=== mighty staff
+    tp Crackridge
+    start ch.3
+    go inn
+    Guide: Reiza
+    == Abandoned Road:
+	Chest: 9200L
+	== Fellsun Ruins:
+    walk
+	Chest: Pom (L) at the bottom right of the save point
+    walk
+    skip cutscene
+    run
+    end of crackridge route
+    
+=== sad bruh moment
+    tp stormhail
+    start ch.3 stormhail route
+    keep going with the story until Forbidden Shrine
 
 	== Forbidden Shrine:
-    Inventor + Giant Club + LT Axe + Victory Ring setup
-    2 encounters
-    Fight at night
+    run 1 enc
 	Chest: 15k
-	upgrade gear before boss fight
-		Nuts
-		Hale and Hearty (+500HP)
-		2x Empowering (+1500HP)
-        upgraded accessories (+750HP)
-    You can go for the Gleaming amulet if you want
+    walk to Save Point
+    in menu, take Nuts and equip below gear
 
 	== Deputy Cubaryi 53500 HP / collect 16k / cost 45k
 
@@ -373,63 +412,86 @@ Upgraded Accessories, no Assassins, no Aelfric, nuts farming, Timberain (Proof o
         T4 HHB x3
         T5 HHV x4
 
+=== fisherman
+	tp conning creek
+	guide fisherman (lvl 20)
+
 === no gps signal zone
+    tp Tropu'hopu
+    Make Sure Evasive and Evil Ward are equipped
+    run 1st zone
+    flee encounter
+    walk 2nd zone (boat traverse
+
 	== nameless village
 	start ch4
+    sell stuff (you must be at least 77000k)
 	== Wandering Wood:
-    right then left x2
+    right then left
+    skip cutscenes
+    right then left again
 	tp nameless village
-    == Back to Nameless Village
-    SELL Stuff (Evening Mist, Hypno Sword, Starsplitter, Raging Beast...)
 	Guide the beastling and back to wood
     == Back to Wood
-    Chest: 28k
-    Chest: Light Soulstone (L)
+    save
+    run
+    1 enc
+    Chest: 28000L
+    run
+    1 enc
+    run
+    Note:
+        if you die, your step counter reloads then it's gonna be:
+        run
+        Chest: 28000L
+        walk
+        no 2nd encounter
 	== Rifted Rocks:
-	Chest: Revitalizing Jam (you may need this)
+    run
+    1 enc
+    run
+	Chest: Revitalizing Jam 
+    run
+    1 enc
+    run
+    Chest: Void Amulet
+    walk to Save Point
 
-	prepare for kaldena, gear I used at lvl 30:
+	== prepare for kaldena (lvl 20 at least)
+    Gear used:
+    - Quartz Shield 
+    - Imperial Helm
+    - Royal Guard Mail 
+    - Empowering Bracelet
+    - Void Amulet
+
+    Support Skills:
+    - Hale and Hearty
+    - A Step Ahead
+    - Boost Start
+    - Resilience (this one is a life saver)
 	
-	Merch
-
-	Step Ahead
-	Hale and Hearty
-	Boost Start
-	Upgraded Accessories
-
-    Armor       Royal Guard Mail
-    Head        Royal Guard Head
-	Shield		Quartz Shield
-	Accessory 1	Empowering Necklace
-	Accessory 2	Empowering Bracelet
-	
-	make sure it's night and that you have healing items (jams, Poms, Red Apples)
-
 === doubt is what I do
+    
+    == 1st phase:
+    - summon Fisherman, Prayer to the Flame x2, break & HHV x4
+    (WARNING: don't do HHV x4 if she's still debuffed)
+    This does less than 40k damage
+    - summon Fisherman again, heal/sidestep/atk/mystical staff until she's 1 SP
+    - make sure you're full BP & at least 1400HP (Rev Jam if needed)
+    - then: HHB x3 & HHV x4 (This does up to 60k damage) 
 
-    Kaldena (100k HP)
+    == 1st phase important note & alternative:
+    WARNING: it can do less damage, two of your HHV attacks must do at least 9999 or next step will be harder. If you want to make sure you do max damage here, go with this (harder to nail):
+    - she has 1 SP & you're at least 2000HP and 3BP
+    - do HHR x4, Rev Jam, HHB x3 and HHV x4. This way you're sure she only have something like 8000HP left for the following step.
 
-	Phase 1: (Cost 75k)
-		1. Summon Fisherman
-		2. break & deal less than ~40k damage
-        I let Fisherman break her shield while I heal/Boost and when she's broken I go for HHVx4
-		3. Summon Fisherman again
-		4. break & deal as much dmg as u can
-        What I do here is that I wait until her shield is 1 or near 1. At this point, Fisherman has to be retreated (so he doesn't break her yet), you should have at least 2/3 HP and full BP. When these conditions are reunited, go for:
-        HHV x3 (breaks)
-        HHV x4 (when broken)
-        This will deal about ~55k dmg
+    == 2nd phase:
+    - Heal/Boost (Rev Jam) & HHV x4 (13000 dmg)
+    Note: if you used HHR in previous step, HHV x3 is enough (9000 dmg)
 
-        HHV x3 breaks her shield at the first hit as the first weapon to be used is a spear (to be verified)
-
-	Phase 2: 
-        Here she acts 3 times in a turn, she hits hard, and she can inflict Terror, use Wriggling Root (heals + cures) if that happens
-        If you dealt enough damage in 1st phase
-        Boost (Rev Jam or Red Apple) & HHV x4 will be enough
-        If not, go for HHV/HHB again if enough money or use L Soulstones 
-
-        skip cutscenes
-        gg
+    skip cutscenes
+    gg!
 ```
 
 ## DRAFT/Old Notes 
