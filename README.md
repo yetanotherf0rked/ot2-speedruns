@@ -458,6 +458,8 @@ GEAR
     walk to Save Point
 
 	== prepare for kaldena (lvl 20 at least)
+    near-perfect attempt video: https://www.youtube.com/watch?v=9_4tIP7A-HY
+
     Gear used:
     - Quartz Shield 
     - Imperial Helm
@@ -471,7 +473,7 @@ GEAR
     - Boost Start
     - Resilience (this one is a life saver)
 	
-=== doubt is what I do
+=== doubt is what he does
     
     == 1st phase:
     - summon Fisherman, Prayer to the Flame x2, break & HHV x4
@@ -481,10 +483,16 @@ GEAR
     - make sure you're full BP & at least 1400HP (Rev Jam if needed)
     - then: HHB x3 & HHV x4 (This does up to 60k damage) 
 
-    == 1st phase important note & alternative:
+    == IMPORTANT NOTE N°1
     WARNING: it can do less damage, two of your HHV attacks must do at least 9999 or next step will be harder. If you want to make sure you do max damage here, go with this (harder to nail):
     - she has 1 SP & you're at least 2000HP and 3BP
     - do HHR x4, Rev Jam, HHB x3 and HHV x4. This way you're sure she only have something like 8000HP left for the following step.
+
+    == IMPORTANT NOTE N°2
+    If Fisherman breaks her, just repeat, don't damage her yet.
+    If Fisherman leaves while she's 2-5SP, break her manually (atk, mystical staff)
+    If Fisherman leaves while she's 5+ SP, you can summon him again, but make sure you're ready to act (full BP and 2/3 HP at least) for breaking her.
+    If she's 1SP, and you're full BP and 2/3 HP left, it's time to strike.
 
     == 2nd phase:
     - Heal/Boost (Rev Jam) & HHV x4 (13000 dmg)
