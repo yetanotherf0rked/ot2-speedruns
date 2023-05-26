@@ -22,7 +22,7 @@ https://www.speedrun.com/octopath2/run/zg24prjy
 --- 2 turn order specific requirements for Thurston and Final Boss
 --- 1 non-consistent HHB x4 for Garnet (rich doggo)
 --- at least 2 long segments with no autosave
---- sub-40 <=> at least less than 5 encounters
+--- sub-40 <=> at least less than 5 game overs
 - AoF stands for Arrow of Fortune
 - flee means: break & flee (b&f) if same/high level enemy, or just flee if low level enemy/many enemies unbreakable simultaneously/surprise attack
 - you'll need to grind some extra JP (20ish) before getting to the Scholar's Guild (2/3 encounters using AoF)
