@@ -1,0 +1,482 @@
+===============================================================
+sneakypeek's solo yeehaw notes / May 27th 2023
+===============================================================
+
+Youtube: https://www.youtube.com/@sneaky314k
+Twitch: https://www.twitch.tv/sneaky314k
+Speedrun.com: https://www.speedrun.com/user/sneakypeek
+Discord: sneakyπk#3063 
+
+Notes:
+- 38:54 run here 
+https://youtu.be/Z-exSKEr9JY
+- splits.io here
+https://splits.io/asmb (Sum of Best is actually 36-ish)
+- most ideas come from jelloknifee's run, thanks to him!
+https://www.speedrun.com/octopath2/run/zg24prjy
+- 37-mins pace route
+- inventor route
+- no black market route
+- risky route, you'll need luck to avoid game overs
+--- force 1 encounter before scholar
+--- 2 turn order specific requirements for Thurston and Final Boss
+--- 1 non-consistent HHB x4 for Garnet (rich doggo)
+--- at least 2 long segments with no autosave
+--- sub-40 <=> at least less than 5 encounters
+- AoF stands for Arrow of Fortune
+- flee means: break & flee (b&f) if same/high level enemy, or just flee if low level enemy/many enemies unbreakable simultaneously/surprise attack
+- you'll need to grind some extra JP (20ish) before getting to the Scholar's Guild (2/3 encounters using AoF)
+- if simple cait encounter:
+--- before Scholar: no JP grinding
+--- before Wellgrove: skip Secret Forest 10000L chest (high ambush-rate area) and take the Magus Knife (sells for 5000L) chest outside Wellgrove (at least 40 seconds save)
+
+Money Requirements:
+- 15000L for Garnet
+- 104800L for the ship
+- 60000L for Thurston
+- at (very least) 21000L for 3 Roque Island encounters (29000L is safe, 37000L is even better)
+- there's a 24500L chest just before the boss
+- 30000L for Final Boss
+
+=====================
+GIFF
+=====================
+buy Dubious Silver Nugget for 150L from Merchant
+go back to Papp
+after cutscene, purchase Fire S and Thunder S for 220L each from the Laborer in front of you
+go talk to Papp
+after cutscene, hire the Peddler just next to you for 300L
+go to next screen
+walk to the target (high luck of skipping an encounter)
+
+---------------
+2x Thugs
+---------------
+Battle Speed x2  
+T1 Polearm x1 on Thug 1
+T2 Arrow of Fortune (AoF) x2 on Thug 1
+T3 Polearm x1 on Thug 2
+T4 AoF x2 on Thug 2
+
+after cutscenes, bo buy medicines for 100L from Spoiler Apothecary and go back to Papp
+after cutscenes, go to next screen
+run all the way in this screen
+Chest: 500L, next to the savepoint
+
+1st encounter: 1 Wild Mole
+T1 Polearm x1
+T2 AoF x3
+
+after the stairs, take the chest to the left, at the top of the ladder
+Chest: Light Soulstone M
+
+2nd encounter: flee
+- 1 Wild Mole: Polearm x1
+- 1 Laughing Hyena: Bow x1
+
+go to Giff's Manse, 2 encounters, flee/b&f
+1st encounter: Dancer or sth: Bow x2
+take the chest in the little room before the stairs
+Chest: Small Silver Ore (sells for 1200L)
+2nd encounter: flying lamp or sth: Polearm x1
+before Giff's boss fight, heal if needed (3:50 is a very good time by here)
+
+-------------------------
+BOSS: GIFF & cie.
+-------------------------
+T1 Fire S
+T2 Any S (Light)
+if Giff's minions have more than 2 turns before you
+|-T3 Healing Grape
+|-T4 Polearm x4 on Giff
+|-T5 Any S (Thunder)
+|-T6 Skip Dialogue / Polearm x1
+|-T7 AoF x3 (this have a small chance of missing)
+else
+|- skip Healing Grape
+
+=====================
+VENISE (Canalbrine)
+=====================
+skip cutscenes
+skip Al's Quest
+from this point, you'll need to farm 17 extra JP for Evasive Maneuvers, use AoF on enemies that have 1 SP (2/3 enemies are enough)
+walk all the way to Southern Cropdale Trail (no encounter)
+run all the way to Eastern Cropdale Trail (1 encounter)
+run all the way to Crackridge Harbor (2 encounters)
+Chest: 1600L
+once in Crackridge Harbor, warp to Oresrush
+go to the items store/provisioner
+Sell:
+- Small Silver Ore, 1200L
+- Lump of Silver, 2000L
+- Silver Ingot, 3000L
+Purchase 1 Ice M for 1650L from the Composed Woman at the left
+warp back to Crackridge Harbor
+ship to New Delsta Harbor (2500L)
+ship to Beasting Bay Harbor (1500L)
+Purchase Bottle of White Powder for 50L from the Ferry Staff at the right
+ship to Canalbrine (1000L)
+in Canalbrine: 
+Purchase Fire S & Thunder S (Inventor's Objects) for 665L each from the Merchant at Castti's left
+Complete Traveler's Lost & Found Quest for 4000L by talking to the Young Traveler with the green hat past the bridge
+Armorer: buy a Critical Earring for 280L (Inventor object)
+head to the church
+Purchase: Thunder M for 1615L from the Wealthy Boy's Father
+switch to night and
+Hire: Wealthy Boy's Father for 2400L
+Warp to New Delsta Harbor
+
+=====================
+SNEAKY (evasive maneuvers)
+=====================
+Split after: Evasive Maneuvers equipped
+switch back to day and head to Scholar (make sure you get enough JP for Evasive Maneuvers as you'll have only one encounter in Western Winterbloom Screen)
+If you meet a cait, use the Ice M (it will allow you to skip a 40 seconds and high-ambush rate farm spot mid-run)
+New Delsta Harbor Screen (run, 1 encounter, run)
+New Delsta Flats Screen (run, 1 encounter, run, sometimes 2: rare)
+Southern Capecold Snows (run, 1 encounter, run, sometimes 2: very rare)
+Eastern Cape Cold Snows (run, 1 encounter, WALK, sometimes 2: often)
+Western Winterbloom Snows (WALK, 1 encounter, use Thunder M, WALK, sometimes 2: often, use Ice M if not a white bear or restart the segment)
+Run and talk to Scholar guy once in Scholar Guild
+unlock 2 Scholar Skills (Lightning Bolt and Elemental Barrage, can be useful for Garnet though I often skip it)
+Warp to New Delsta Harbor
+
+=====================
+SERAPHIM (Spear)
+=====================
+head New Delsta
+New Delsta Harbor Screen (run 70 then walk to 100% skip 1 encounter)
+New Delsta Flats (run)
+Eastern New Delsta Highroad (run, 1 encounter, run, you can sometimes skip this one but very rare)
+Tag New Delsta and head to Clockbank
+Eastern New Delsta Highroad (run east, don't take the boat), no encounter, sometimes 1: rare)
+Western Clockbank Highroad: run, take the bridge, the stairs, the boat and head East (1 encounter)
+Southern Clockbank Highroad: WALK all the way (0 encounter, sometimes 1: common)
+take the money chest at the entry of the screen
+Chest: 6300L
+In Clockbank:
+start ch.2
+head to Old Clock Tower:
+take the left stairs, then the hidden stairs west, then the boat
+go below the bridge east
+Chest: Pointed Hat
+head north to the Old Clock Tower
+take the chest on top of the ladder
+Chest: Crested Greatshield
+enter Old Clock Tower
+Run to chest on top of ladder
+Chest: Inferno Amulet (useful for Garnet Boss Fight)
+WALK to savepoint
+Save & Reload
+run to the ladder west
+take the chest on top
+Chest: Seraphim Spear
+Warp to New Delsta
+
+=====================
+UNERRING (Earring)
+=====================
+In New Delsta:
+talk to the Bourgeois Boy located in the house next to the inn for 9000L
+Purchase: Ice S (Inventor Object) for 665L from the Artist just before the armorer
+Armorer: buy Unerring Earring for 280L
+Warp back to Clockbank
+
+=====================
+CAIT (A bit of ch.2 & Catarine Quest)
+=====================
+Purchase: Wind M and Fire M for 1615L each from the Townsperson down the right stairs, just before the east bridge
+Switch to Night
+Hire: Haggard Man for 4000L (for the Catharine Quest)
+head north screen
+continue the story until you give Clockite to Floyd
+after you gave Clockite to floyd:
+switch to day
+Purchase: Shadow M from the Executive in front of Roque Factory Doors
+go down the stairs and head west
+talk to the white Cat to complete the Catharine Quest (12000L and a Cait Powder)
+
+MENU:
+- Equip: Optimize + Cait Powder + Inferno Amulet
+
+Warp to Canalbrine
+
+=====================
+RAINBOW (glass)
+=====================
+head to Conning Creek for Rainbow Glass Chest (Inventor Object)
+1st screen: run, 1 encounter (flee/b&f), run
+2nd screen: run 20%, walk (you can run more if using gamepad)
+3rd screen: switch to night, run, 1 encounter (any M, not the Shadow though), switch back to day, run
+4th screen: switch to night, run, 1 encounter (any M, not the Shadow though), switch back to day, run to Conning Creek
+in Conning Creek, head north screen
+Chest: Rainbow Glass
+Warp New Delsta
+
+=====================
+300 IQ GUY (Inventor & A Step Ahead)
+=====================
+head to inventor
+unlock 2 skills
+warp Clockbank
+
+=====================
+RICH DOGGO (Inventor & A Step Ahead)
+=====================
+in Clockbank:
+continue the story:
+switch to night
+Hire: Clockworker at the Tavern for 1000L
+head to Roque Factory
+after cutscenes:
+
+MENU:
+- Merchant Skills: Unlock: Collect and Hired Help (also Sidestep if enough JP)
+- Job: Equip: Inventor
+- Support Skills: Equip: A Step Ahead & Grows on Leaves (also Boost Start if Sidestep unlocked)
+ 
+head north screen
+before going to the Roque Factory, go left and
+Hire: (Drunk) Townsperson for 600L on top of stairs (Skill: Physical Degradation/Merch Talent: 20% bonus with Collect)
+switch to day
+head to Roque Factory
+
+-------------------------
+Fight: 2x Guards
+-------------------------
+T1 Defend
+T2 Changeable Catapult w/Polearm (CCP) x3
+
+after cutscenes, go on top of the roof and take the chest down the stairs
+Chest: 7000L
+1 encounter: Defend + Changeable Catapult w/Polearm x3
+save before Boss Fight as you'll need some luck here
+
+---------------
+BOSS: Garnet (need full LP)
+---------------
+T1 Summon Townsperson
+T2 LP + Collect x4 (36000L + 6000L)
+T3 Defend/Heal
+T4 HHB x4 (make sure Garnet has been debuffed by summon here)
+T5/T6 if he survives, CCP x3/4 (or/and Shadow M)
+
+Note: the beastlings dmg is unconsistent, Garnet can have 2000 to 4000 HP left after HHB x4
+Alternative: jelloknifee's strat uses Scholar's Elemental Barrage + Summon's Axe attacks to break Garnet and uses HHG x4 when broken (8000L save). I use HHB x4 cuz it's faster (but riskier).
+
+=====================
+WELLGROVE
+=====================
+warp to Oresrush and head to Wellgrove
+1st screen: run
+2nd screen: run (1 encounter that you can sometimes skip if you walk after the bridge: rare)
+
+if enough jp, MENU:
+- Merchant Skills: Unlock Sidestep
+- Support Skills: Boost Start
+
+3rd screen:
+run 60% walk 40% to savepoint
+save and reload
+run to 4th screen
+4th screen:
+if you had a Cait encounter, take chest north
+Chest: Magus Knife (sells for 4000L)
+1 encounter:
+- either 1 Shadow M + Polearm x2
+- or CCP x3 + Polearm x2
+- or CCP x4
+enter Wellgrove
+
+=====================
+SECRET (forest): this segment can be skipped if you had a cait encounter
+=====================
+In Wellgrove:
+start ch.3
+Purchase:
+- 1 Empowering Lychee (M) for 1045L from Girl's Mother located between the inn and the tavern
+- 1 Wind M for 1615L from the Merchant just oustide Secret Forest
+head Secret Forest, make sure it's day
+in Secret Forest:
+run to the chest far north
+Chest: Little Crow (sells for 4000L)
+then run to chest south east under the cavity
+Chest: 10000L
+
+Note: you can also take 1 Refreshing Jam chest just west, I usually skip it
+
+warp to Beasting Bay Harbor
+
+=====================
+BLACK (sun): buy the ship (need 104800 Leaves)
+=====================
+Hire: Ferry Staff for 3200L (earn 25% more from sales)
+head to Tropu'hopu
+1st screen: run, 1 encounter, run
+2nd screen: run, save & reload, run (sometimes you can get unlucky and heave 1 encounter)
+In Tropu'hopu:
+Purchase: Pretty Pearl for 1200L from Fisherwoman next to the western anchroage
+head to the Floating Theather (north)
+talk to the Man Searching for Pearls down the west stairs to complete the Pearl Hunt Quest (15000L, Cupid's Bow sells for 4000L)
+go back to tropu'hopu and head to the Armorer
+
+ARMORER:
+- Equipment: Unequip: Seraphim Spear, Cait Powder, Inferno Amulet
+- Sell: 
+--- Seraphim Spear (11400L + 2850L),
+--- Magus Knife OR Little Crow (4000L + 1000L)
+--- Cupid's Bow (4000L + 1000L)
+--- Inferno Amulet (2700L + 675L)
+--- Cait Powder (4000L + 1000L)
+--- extra items (Nuts for example) to reach 104800L
+
+Note: If super tight on money, you can always get the Abandoned Waterways 8000ish L chest or the Eastern Wellgrove 7000ish chest (just before Sai Sands screen)
+
+head to the inn
+switch to night
+sleep for LP (if needed)
+Hire: Merchant at the Inn for 4800L (receive 20% off purchases)
+switch to day
+head to east screen
+Purchase: Unfinished Vessel from Terry for 100000L (20000L saved)
+pimp your boat and sail
+
+=====================
+YUMMIES: looting in the sunderring sea
+=====================
+once sailed, head north, walk to 2 chests:
+Chest: Reinforcing Jam (east of Nameless Island)
+Chest: 20000L (red chest south of New Delsta Harbor)
+warp Beasting Bay Harbor
+switch to night and
+Hire: Ferry Staff (again) for 3200L
+warp Crackridge Harbor
+switch to day and sail
+head to the red chest southwest
+Chest: Sunken Gold Statue
+warp to Wellgrove
+
+=====================
+YEEHAW'S BESTIE: ch.3
+=====================
+in Wellgrove:
+Sell: Sunken Gold Statue for 50000L + 10000L
+continue with story the story until heading to Alrond's Estate
+before going to Alrond's Estate, take the chest at the left
+Chest: Nimble Mantle
+continue with the story
+switch to night
+Hire: Merchant west
+Hire: Merchant at the tavern
+Purchase: Empowering Lychee (M) for 1045L from the Girl's Mother if the Secret Forest segment has been skipped
+You can go at the inn for LP if you want here (or use 2 empowering lychees later)
+Hire: Soldier between the Inn and Wellgrove Exit for 5000L (the one who's looking east, receive 10-30% off when using Hired Help)
+Hire: Last Merchant
+continue with the story and buy the stuff needed in Tropu, Clockbank and Oresrush
+after the cutscenes, and before Alrond's GARDEN (autosave here):
+
+MENU:
+- Inventory: Equip Nimble Mantle/use 2 Empowering Lychees (M) for LP if you hate inns
+- if not done yet: Unlock Sidestep and Equip Boost Start
+
+head to Alrond's Estate
+
+=====================
+HIDDEN IN STEAM:
+=====================
+---------------
+BOSS: Thurston + Steam Engine or sth
+---------------
+T1 HHB x3 on steam engine
+T2 skip dialogue/LP + HHB x4
+T3 HHV x3
+
+Note: if Thurston acts before you at T2, it's a 95% (invented figure) chance of dying. I noticed Thurston sometimes doesn't oneshot you with his 3 hits attack when summoning someone (to be confirmed). Maybe something to experiment with Sidesteps as well.
+
+=====================
+2 EMPOWERING:
+=====================
+skip cutscenes
+go to the department store
+Buy: 2 Empowering Bracelets for 5000L each from the Merchant east of the Department
+equip them (you can fast equip on both slots)
+- select to equip 1st
+- press P/Start to switch 2nd slot (Battle Speed Button)
+- select to equip 2nd
+b1g g4ym1ng m0ment
+warp Beasting Bay Harbor
+
+=====================
+ROQUE ISLAND:
+=====================
+Note: at this point, if you're under 33 (maybe under 34) here on 120FPS, PC, sub-40 is possible
+Note 2: starting from this point, you'll have 3 encounters if you time your runs/walks well
+you can safely use 1 HHB
+I didn't test if you can use 2 HHB
+If you use 3 HHB, you'll turn out of money before the final boss (need 30000L)
+you can still go with an early Collect on final boss but tbh, I wouldn't risk it
+
+sail to Roque Island (run)
+run, 1 encounter (HHB x3 OR Any M + HHG x4 if lucky turn order and greedy on leaves)
+start walking after the first stairs (low chance getting a 2nd encounter)
+in Roque Island:
+start ch.4
+sleep at the inn/use Empowering Lychee M x2 for LP if you still have them
+continue with the story and make for the Headquarters
+
+=====================
+DON'T GET AMBUSHED: long 2 encounters segment with no autosave, good luck
+=====================
+once in Headquerters
+run 1st screen
+1 encounter: HHG x4 is often enough
+start walking when you climbed down the two consecutive ladders
+run 2nd screen (outside)
+run 3rd screen and take the money chest behind the middle door
+Chest: 24500L
+keep running
+1 encounter: HHG x4 is often enough
+go to the ground floor
+take the chest behind the east door
+Chest: Refreshing Jam
+before going to next screen:
+
+MENU:
+- Unlock Any Merch Skill
+- Equip Hang Tough
+- Make sure you're full LP/health with both Empowering Bracelets equipped
+
+head to Roque
+buy the 80 billion contract
+next fight is not a 100% chance win so if you don't wanna risk, go back previous screen to trigger autosave, (I tend to skip it)
+
+=====================
+FORBES TOP 1: need 30000L here
+=====================
+---------------
+BOSS: not the phantom train or sth
+---------------
+Default is: Partitio acts before Cannon (leaves you with 1HP) and Glacis Plate (his Brush Aside attack make you act at the end of the turn), both can be Sidestepped
+T1: HHRx3
+T2: LP+HHVx4
+T3/4: heal/sidestep/boost
+T4/5: Collect x4 for 52000L +  (Collect x3 works with a ~70% chance)
+T5/6: Boost (Reinforcing Jam)
+T6/7: HHR x3
+T7/8: HHV x4
+T8/9: Defend/heal/sidestep/skip dialogue
+T8/9: Finish him with HHV x4
+
+Notes:
+- debuff is mandatory for oneshooting the train's mininons with HHVx4 / you can also do HHBx3 then HHBx4 (see jelloknifee's route)
+- overall, train only needs 2 debuffed HHVx4 and 1 non debuffed HHVx4 (make the 3 of them debuffed if you want more consistency)
+- make sure you're ready to HHVx4 after a Repairs, or Partitio gets out of the game
+- if you made him eat 3 HHVx4 before skipping dialogue, just finish him with Polearm x1 (classy m0ment)
+- maybe some optimization to do here
+
+skip cutscene
+switch to night
+Hire: Roque for 1L
+skip cutscenes
+gg
