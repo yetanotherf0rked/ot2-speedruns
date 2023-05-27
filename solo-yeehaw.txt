@@ -332,6 +332,9 @@ ARMORER:
 --- extra items (Nuts for example) to reach 104800L
 
 Note: If super tight on money, you can always get the Abandoned Waterways 8000ish L chest or the Eastern Wellgrove 7000ish chest (just before Sai Sands screen)
+You can get a:
+- Shadow M (& Light M) from the Scholar near the inn for 1615L (each)
+- Ice M from the Suspicious Man at Crackridge Harbor (near the anchorage) for the same price
 
 head to the inn
 switch to night
